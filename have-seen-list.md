@@ -33,3 +33,9 @@
 - ## 鹎科 [Pycnonotidae](https://en.wikipedia.org/wiki/Bulbul) Bulbul
 
 - ## 绣眼鸟科 [Zosteropidae](https://en.wikipedia.org/wiki/White-eye) White-eye
+
+- ## 莺科 [Sylviidae](https://en.wikipedia.org/wiki/Sylviidae)
+
+- ## 麻雀科 [Passeridae](https://en.wikipedia.org/wiki/Sparrow) Sparrow
+
+- ## 燕雀科 [Fringillidae](https://en.wikipedia.org/wiki/Finch) Finch
