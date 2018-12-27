@@ -13,6 +13,8 @@
 - ## 秧鸡科 [Rallidae](https://en.wikipedia.org/wiki/Rail_(bird))
 
 - ## 鸊鷉科 [Podicipedidae](https://en.wikipedia.org/wiki/Grebe) Grebe
+    - #### [小鸊鷉](http://niaolei.org.cn/bird/b518.htm) [Little Grebe](https://en.wikipedia.org/wiki/Little_grebe)
+        - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
 
 - ## 鹭科 [Ardeidae](https://en.wikipedia.org/wiki/Heron) Heron
     - #### [小白鹭](http://niaolei.org.cn/bird/b535.htm) [Little egret](https://en.wikipedia.org/wiki/Little_egret)
@@ -33,22 +35,36 @@
 - ## 鹟科 [Muscicapidae](https://en.wikipedia.org/wiki/Old_World_flycatcher)
     - #### [虎斑地鸫/怀氏虎鸫](http://niaolei.org.cn/bird/b700.htm) [Scaly Thrush](https://en.wikipedia.org/wiki/Scaly_thrush)/[White's Thrush](https://en.wikipedia.org/wiki/White%27s_thrush)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
+    - #### [乌鸫](http://niaolei.org.cn/bird/b707.htm) [Eurasian Blackbird](https://en.wikipedia.org/wiki/Common_blackbird)
+        - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
+    - #### [北红尾鸲](http://niaolei.org.cn/bird/b787.htm) [Daurian Redstart](https://en.wikipedia.org/wiki/Daurian_redstart)
+        - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
 
 - ## 椋鸟科 [Sturnidae](https://en.wikipedia.org/wiki/Starling) Starling
+    - #### [八哥](http://niaolei.org.cn/bird/b829.htm) [Crested Myna](https://en.wikipedia.org/wiki/Crested_myna)
+        - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
 
 - ## 鳾科 [Sittidae](https://en.wikipedia.org/wiki/Nuthatch) Nuthatch
+
+- ## 山雀科 [Paridae](https://en.wikipedia.org/wiki/Tit_(bird)) Tit
+    - #### [大山雀/远东山雀](http://niaolei.org.cn/bird/b862.htm) [Great Tit](https://en.wikipedia.org/wiki/Great_tit)/[Oriental Tit](https://en.wikipedia.org/wiki/Japanese_tit)
+        - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
 
 - ## 鹎科 [Pycnonotidae](https://en.wikipedia.org/wiki/Bulbul) Bulbul
     - #### [白头鹎](http://niaolei.org.cn/bird/b898.htm) [Light-vented Bulbul](https://en.wikipedia.org/wiki/Light-vented_bulbul)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
 
 - ## 绣眼鸟科 [Zosteropidae](https://en.wikipedia.org/wiki/White-eye) White-eye
+    - #### [暗绿绣眼鸟](http://niaolei.org.cn/bird/b925.htm) [Japanese White-eye](https://en.wikipedia.org/wiki/Japanese_white-eye)
+        - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
 
 - ## 莺科 [Sylviidae](https://en.wikipedia.org/wiki/Sylviidae)
 
 - ## 麻雀科 [Passeridae](https://en.wikipedia.org/wiki/Sparrow) Sparrow
 
 - ## 鹡鸰科 [Motacillidae](https://en.wikipedia.org/wiki/Motacillidae)
+    - #### [白鹡鸰](http://niaolei.org.cn/bird/b1207.htm) [White Wagtail](https://en.wikipedia.org/wiki/White_wagtail)
+        - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
 
 - ## 燕雀科 [Fringillidae](https://en.wikipedia.org/wiki/Finch) Finch
     - #### [黑尾蜡嘴雀](http://niaolei.org.cn/bird/b1293.htm) [Yellow-billed Grosbeak](https://en.wikipedia.org/wiki/Chinese_grosbeak)
