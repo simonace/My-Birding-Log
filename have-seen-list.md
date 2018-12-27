@@ -21,3 +21,15 @@
         - ###### First Sight
 
 - ## 伯劳科 [Laniidae](https://en.wikipedia.org/wiki/Shrike)
+
+- ## 鸦科 [Corvidae](https://en.wikipedia.org/wiki/Corvidae)
+
+- ## 鹟科 [Muscicapidae](https://en.wikipedia.org/wiki/Old_World_flycatcher)
+
+- ## 椋鸟科 [Sturnidae](https://en.wikipedia.org/wiki/Starling)
+
+- ## 鳾科 [Sittidae](https://en.wikipedia.org/wiki/Nuthatch)
+
+- ## 鹎科 [Pycnonotidae](https://en.wikipedia.org/wiki/Bulbul)
+
+- ## 绣眼鸟科 [Zosteropidae](https://en.wikipedia.org/wiki/White-eye)
