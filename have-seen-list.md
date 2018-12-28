@@ -45,11 +45,13 @@
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
 
 - ## 鹟科 [Muscicapidae](https://en.wikipedia.org/wiki/Old_World_flycatcher)
+    - #### [北红尾鸲](http://niaolei.org.cn/bird/b787.htm) [Daurian Redstart](https://en.wikipedia.org/wiki/Daurian_redstart)
+        - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
+        
+- ## 鸫科 [Turdidae](https://en.wikipedia.org/wiki/Thrush_(bird)) Thrush
     - #### [虎斑地鸫/怀氏虎鸫](http://niaolei.org.cn/bird/b700.htm) [Scaly Thrush](https://en.wikipedia.org/wiki/Scaly_thrush)/[White's Thrush](https://en.wikipedia.org/wiki/White%27s_thrush)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
     - #### [乌鸫](http://niaolei.org.cn/bird/b707.htm) [Eurasian Blackbird](https://en.wikipedia.org/wiki/Common_blackbird)
-        - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
-    - #### [北红尾鸲](http://niaolei.org.cn/bird/b787.htm) [Daurian Redstart](https://en.wikipedia.org/wiki/Daurian_redstart)
         - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
     - #### [白腹鸫](http://niaolei.org.cn/bird/b714.htm) [Pale Thrush](https://en.wikipedia.org/wiki/Pale_thrush)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
