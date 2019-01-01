@@ -89,6 +89,8 @@
 - ## 鹡鸰科 [Motacillidae](https://en.wikipedia.org/wiki/Motacillidae)
     - #### [白鹡鸰](http://niaolei.org.cn/bird/b1207.htm) [White Wagtail](https://en.wikipedia.org/wiki/White_wagtail)
         - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
+    - #### [树鹨](http://niaolei.org.cn/bird/b1218.htm) [Olive-backed Pipit](https://en.wikipedia.org/wiki/Olive-backed_pipit)
+        - ###### First Sight: [2019-01-01](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190101.md)
 
 - ## 燕雀科 [Fringillidae](https://en.wikipedia.org/wiki/Finch) Finch
     - #### [黑尾蜡嘴雀](http://niaolei.org.cn/bird/b1293.htm) [Yellow-billed Grosbeak](https://en.wikipedia.org/wiki/Chinese_grosbeak)
