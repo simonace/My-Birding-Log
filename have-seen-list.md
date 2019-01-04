@@ -3,14 +3,17 @@
 - ## 雉科 [Phasianidae](https://en.wikipedia.org/wiki/Phasianidae) 
 
 - ## 鸭科 [Anatidae](https://en.wikipedia.org/wiki/Anatidae)
+  - ### 鸭属 [Anas](https://en.wikipedia.org/wiki/Anas)
     - #### [斑嘴鸭](http://niaolei.org.cn/bird/b90.htm) [Spot-billed Duck](https://en.wikipedia.org/wiki/Indian_spot-billed_duck)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
+    - #### [绿头鸭](http://niaolei.org.cn/bird/b89.htm) [Mallard](https://en.wikipedia.org/wiki/Mallard)
+        - ###### First Sight: [2018-12-23](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181223.md)
+  - ### 潜鸭属 [Aythya](https://en.wikipedia.org/wiki/Aythya)
     - #### [凤头潜鸭](http://niaolei.org.cn/bird/b103.htm) [Tufted Duck](https://en.wikipedia.org/wiki/Tufted_duck)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
     - #### [红头潜鸭](http://niaolei.org.cn/bird/b99.htm) [Common Pochard](https://en.wikipedia.org/wiki/Common_pochard)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
-    - #### [绿头鸭](http://niaolei.org.cn/bird/b89.htm) [Mallard](https://en.wikipedia.org/wiki/Mallard)
-        - ###### First Sight: [2018-12-23](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181223.md)
+
 
 - ## 翠鸟科 [Alcedinidae](https://en.wikipedia.org/wiki/Kingfisher) Kingfisher
     - #### [普通翠鸟](http://niaolei.org.cn/bird/b171.htm) [Common Kingfisher](https://en.wikipedia.org/wiki/Common_kingfisher)
