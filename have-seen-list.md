@@ -32,6 +32,19 @@
   - ### 黑水鸡属 [Gallinula](https://en.wikipedia.org/wiki/Moorhen)
     - #### [黑水鸡](http://niaolei.org.cn/bird/b323.htm) [Common Moorhen](https://en.wikipedia.org/wiki/Common_moorhen)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
+  - ### 苦恶鸟属 [Amaurornis](https://en.wikipedia.org/wiki/Amaurornis)
+    - #### [白胸苦恶鸟](http://niaolei.org.cn/bird/b313.htm) [White-breasted Waterhen](https://en.wikipedia.org/wiki/White-breasted_waterhen)
+        - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
+
+- ## 鹬科 [Scolopacidae](https://en.wikipedia.org/wiki/Sandpiper) Sandpiper
+  - ### 矶鹬属 [Actitis](https://en.wikipedia.org/wiki/Actitis)
+    - #### [矶鹬](http://niaolei.org.cn/bird/b351.htm) [Common Sandpiper](https://en.wikipedia.org/wiki/Common_sandpiper)
+        - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
+
+- ## 鸥科 [Laridae](https://en.wikipedia.org/wiki/Laridae)
+  - ### 鸥属 [Larus](https://en.wikipedia.org/wiki/Larus)
+    - #### [西伯利亚银鸥/蒙古银鸥](http://niaolei.org.cn/bird/b420.htm) [Vega Gull/Mongolian Gull](https://en.wikipedia.org/wiki/Vega_gull)
+        - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
 
 - ## 鸊鷉科 [Podicipedidae](https://en.wikipedia.org/wiki/Grebe) Grebe
   - ### 小鸊鷉属 [Tachybaptus](https://en.wikipedia.org/wiki/Tachybaptus)
@@ -63,6 +76,9 @@
   - ### 红尾鸲属 [Phoenicurus](https://en.wikipedia.org/wiki/Phoenicurus)
     - #### [北红尾鸲](http://niaolei.org.cn/bird/b787.htm) [Daurian Redstart](https://en.wikipedia.org/wiki/Daurian_redstart)
         - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
+  - ### 鹊鸲属 [Copsychus](https://en.wikipedia.org/wiki/Magpie-robin)
+    - #### [鹊鸲](http://niaolei.org.cn/bird/b778.htm) [Oriental Magpie-Robin](https://en.wikipedia.org/wiki/Oriental_magpie-robin)
+        - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
         
 - ## 鸫科 [Turdidae](https://en.wikipedia.org/wiki/Thrush_(bird)) Thrush
   - ### 鸫属 [Turdus](https://en.wikipedia.org/wiki/True_thrush)
@@ -108,6 +124,11 @@
     - #### [树麻雀](http://niaolei.org.cn/bird/b1198.htm) [Eurasian Tree Sparrow](https://en.wikipedia.org/wiki/Eurasian_tree_sparrow)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
 
+- ## 梅花雀科 [Estrildidae](https://en.wikipedia.org/wiki/Estrildidae)
+  - ### 文鸟属 [Lonchura](https://en.wikipedia.org/wiki/Lonchura)
+    - #### [白腰文鸟](http://niaolei.org.cn/bird/b1239.htm) [White-rumped Munia](https://en.wikipedia.org/wiki/White-rumped_munia)
+        - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
+
 - ## 鹡鸰科 [Motacillidae](https://en.wikipedia.org/wiki/Motacillidae)
   - ### 鹡鸰属 [Motacilla](https://en.wikipedia.org/wiki/Wagtail)
     - #### [白鹡鸰](http://niaolei.org.cn/bird/b1207.htm) [White Wagtail](https://en.wikipedia.org/wiki/White_wagtail)
@@ -120,8 +141,19 @@
   - ### 蜡嘴雀属 [Eophona](https://en.wikipedia.org/wiki/Eophona)
     - #### [黑尾蜡嘴雀](http://niaolei.org.cn/bird/b1293.htm) [Yellow-billed Grosbeak](https://en.wikipedia.org/wiki/Chinese_grosbeak)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
+  - ### 燕雀属 [Fringilla](https://en.wikipedia.org/wiki/Fringilla)
+    - #### [燕雀](http://niaolei.org.cn/bird/b1244.htm) [Brambling](https://en.wikipedia.org/wiki/Brambling)
+        - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
+  - ### 金翅雀属 [Chloris](https://en.wikipedia.org/wiki/Chloris_(bird))
+    - #### [金翅雀](http://niaolei.org.cn/bird/b1246.htm) [Grey-capped Greenfinch](https://en.wikipedia.org/wiki/Grey-capped_greenfinch)
+        - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
         
 - ## 鹀科 [Emberizidae](https://en.wikipedia.org/wiki/Emberizidae)
   - ### 鹀属 [Emberiza](https://en.wikipedia.org/wiki/Emberiza)
     - #### [灰头鹀](http://niaolei.org.cn/bird/b1322.htm) [Black-faced Bunting](https://en.wikipedia.org/wiki/Black-faced_bunting)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
+        
+- ## 戴胜科 [Upupidae](https://en.wikipedia.org/wiki/Hoopoe)
+  - ### 戴胜属 [Upupa](https://en.wikipedia.org/wiki/Hoopoe)
+    - #### [戴胜](http://niaolei.org.cn/bird/b163.htm) [Eurasian Hoopoe](https://en.wikipedia.org/wiki/Eurasian_hoopoe)
+        - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
