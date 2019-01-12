@@ -94,6 +94,9 @@
   - ### 八哥属 [Acridotheres](https://en.wikipedia.org/wiki/Acridotheres)
     - #### [八哥](http://niaolei.org.cn/bird/b829.htm) [Crested Myna](https://en.wikipedia.org/wiki/Crested_myna)
         - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
+  - ### 丝光椋鸟属 [Spodiopsar](https://en.wikipedia.org/wiki/Spodiopsar)
+    - #### [灰椋鸟](http://niaolei.org.cn/bird/b821.htm) [White-cheeked Starling](https://en.wikipedia.org/wiki/White-cheeked_starling)
+        - ###### First Sight: [2019-01-12](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190112.md)
 
 - ## 鳾科 [Sittidae](https://en.wikipedia.org/wiki/Nuthatch) Nuthatch
 
