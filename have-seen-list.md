@@ -79,6 +79,9 @@
   - ### 鹊鸲属 [Copsychus](https://en.wikipedia.org/wiki/Magpie-robin)
     - #### [鹊鸲](http://niaolei.org.cn/bird/b778.htm) [Oriental Magpie-Robin](https://en.wikipedia.org/wiki/Oriental_magpie-robin)
         - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
+  - ### 鸲属 [Tarsiger](https://en.wikipedia.org/wiki/Tarsiger)
+    - #### [红胁蓝尾鸲](http://niaolei.org.cn/bird/b773.htm) [Orange-flanked Bush-Robin](https://en.wikipedia.org/wiki/Red-flanked_bluetail)
+        - ###### First Sight: [2019-01-19](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190119.md)
         
 - ## 鸫科 [Turdidae](https://en.wikipedia.org/wiki/Thrush_(bird)) Thrush
   - ### 鸫属 [Turdus](https://en.wikipedia.org/wiki/True_thrush)
