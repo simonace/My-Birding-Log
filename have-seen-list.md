@@ -1,5 +1,7 @@
 # Have-seen List  已观测的物种
 
+Have-seen Species Counter: 41
+
 - ## 雉科 [Phasianidae](https://en.wikipedia.org/wiki/Phasianidae) 
 
 - ## 鸭科 [Anatidae](https://en.wikipedia.org/wiki/Anatidae)
