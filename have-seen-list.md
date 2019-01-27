@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 41
+Have-seen Species Counter: 43
 
 - ## 雉科 [Phasianidae](https://en.wikipedia.org/wiki/Phasianidae) 
 
@@ -63,6 +63,9 @@ Have-seen Species Counter: 41
   - ### 鹭属 [Ardea](https://en.wikipedia.org/wiki/Ardea_(genus))
     - #### [苍鹭](http://niaolei.org.cn/bird/b539.htm) [Grey Heron](https://en.wikipedia.org/wiki/Grey_heron)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
+  - ### 夜鹭属 [Nycticorax](https://en.wikipedia.org/wiki/Nycticorax)
+    - #### [夜鹭](http://niaolei.org.cn/bird/b547.htm) [Black-crowned Night-Heron](https://en.wikipedia.org/wiki/Black-crowned_night_heron)
+        - ###### First Sight: [2019-01-27](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190127.md)
 
 - ## 伯劳科 [Laniidae](https://en.wikipedia.org/wiki/Shrike) Shrike
   - ### 伯劳属 [Lanius](https://en.wikipedia.org/wiki/Lanius)
@@ -167,6 +170,8 @@ Have-seen Species Counter: 41
   - ### 鹀属 [Emberiza](https://en.wikipedia.org/wiki/Emberiza)
     - #### [灰头鹀](http://niaolei.org.cn/bird/b1322.htm) [Black-faced Bunting](https://en.wikipedia.org/wiki/Black-faced_bunting)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
+    - #### [田鹀](http://niaolei.org.cn/bird/b1315.htm) [Rustic Bunting](https://en.wikipedia.org/wiki/Rustic_bunting)
+        - ###### First Sight: [2019-01-27](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190127.md)
         
 - ## 戴胜科 [Upupidae](https://en.wikipedia.org/wiki/Hoopoe)
   - ### 戴胜属 [Upupa](https://en.wikipedia.org/wiki/Hoopoe)
