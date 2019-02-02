@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 43
+Have-seen Species Counter: 44
 
 - ## 雉科 [Phasianidae](https://en.wikipedia.org/wiki/Phasianidae) 
 
@@ -99,6 +99,8 @@ Have-seen Species Counter: 43
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
     - #### [灰背鸫](http://niaolei.org.cn/bird/b702.htm) [Grey-backed Thrush](https://en.wikipedia.org/wiki/Grey-backed_thrush)
         - ###### First Sight: [2019-01-20](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190120.md)
+    - #### [斑鸫](http://niaolei.org.cn/bird/b717.htm) [Dusky Thrush](https://en.wikipedia.org/wiki/Dusky_thrush)
+        - ###### First Sight: [2019-02-02](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190202.md)
   - ### 地鸫属 [Zoothera](https://en.wikipedia.org/wiki/Asian_thrush)
     - #### [虎斑地鸫/怀氏虎鸫](http://niaolei.org.cn/bird/b700.htm) [Scaly Thrush](https://en.wikipedia.org/wiki/Scaly_thrush)/[White's Thrush](https://en.wikipedia.org/wiki/White%27s_thrush)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
