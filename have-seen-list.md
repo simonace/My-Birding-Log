@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 44
+Have-seen Species Counter: 47
 
 - ## 雉科 [Phasianidae](https://en.wikipedia.org/wiki/Phasianidae) 
 
@@ -119,6 +119,9 @@ Have-seen Species Counter: 44
   - ### 山雀属 [Parus](https://en.wikipedia.org/wiki/Parus)
     - #### [大山雀/远东山雀](http://niaolei.org.cn/bird/b862.htm) [Great Tit](https://en.wikipedia.org/wiki/Great_tit)/[Oriental Tit](https://en.wikipedia.org/wiki/Japanese_tit)
         - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
+  - ### 长尾山雀属 [Aegithalos](https://en.wikipedia.org/wiki/Aegithalos)
+    - #### [红头长尾山雀](http://niaolei.org.cn/bird/b873.htm) [Black-throated Tit](https://en.wikipedia.org/wiki/Black-throated_bushtit)
+        - ###### First Sight: [2019-02-03](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190203.md)
 
 - ## 鹎科 [Pycnonotidae](https://en.wikipedia.org/wiki/Bulbul) Bulbul
   - ### 鹎属 [Pycnonotus](https://en.wikipedia.org/wiki/Pycnonotus)
@@ -151,6 +154,8 @@ Have-seen Species Counter: 44
   - ### 鹡鸰属 [Motacilla](https://en.wikipedia.org/wiki/Wagtail)
     - #### [白鹡鸰](http://niaolei.org.cn/bird/b1207.htm) [White Wagtail](https://en.wikipedia.org/wiki/White_wagtail)
         - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
+    - #### [灰鹡鸰](http://niaolei.org.cn/bird/b1212.htm) [Grey Wagtail](https://en.wikipedia.org/wiki/Grey_wagtail)
+        - ###### First Sight: [2019-02-03](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190203.md)
   - ### 鹨属 [Anthus](https://en.wikipedia.org/wiki/Pipit)
     - #### [树鹨](http://niaolei.org.cn/bird/b1218.htm) [Olive-backed Pipit](https://en.wikipedia.org/wiki/Olive-backed_pipit)
         - ###### First Sight: [2019-01-01](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190101.md)
@@ -174,6 +179,8 @@ Have-seen Species Counter: 44
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
     - #### [田鹀](http://niaolei.org.cn/bird/b1315.htm) [Rustic Bunting](https://en.wikipedia.org/wiki/Rustic_bunting)
         - ###### First Sight: [2019-01-27](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190127.md)
+    - #### [白眉鹀](http://niaolei.org.cn/bird/b1311.htm) [Tristram's Bunting](https://en.wikipedia.org/wiki/Tristram%27s_bunting)
+        - ###### First Sight: [2019-02-03](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190203.md)
         
 - ## 戴胜科 [Upupidae](https://en.wikipedia.org/wiki/Hoopoe)
   - ### 戴胜属 [Upupa](https://en.wikipedia.org/wiki/Hoopoe)
