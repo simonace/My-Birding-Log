@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 48
+Have-seen Species Counter: 49
 
 - ## 雉科 [Phasianidae](https://en.wikipedia.org/wiki/Phasianidae) 
 
@@ -122,6 +122,9 @@ Have-seen Species Counter: 48
   - ### 长尾山雀属 [Aegithalos](https://en.wikipedia.org/wiki/Aegithalos)
     - #### [红头长尾山雀](http://niaolei.org.cn/bird/b873.htm) [Black-throated Tit](https://en.wikipedia.org/wiki/Black-throated_bushtit)
         - ###### First Sight: [2019-02-03](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190203.md)
+  - ### 黄山雀属 [Machlolophus](https://en.wikipedia.org/wiki/Machlolophus)
+    - #### [黄颊山雀](http://niaolei.org.cn/bird/b865.htm) [Yellow-cheeked Tit](https://en.wikipedia.org/wiki/Yellow-cheeked_tit)
+        - ###### First Sight [2019-03-09](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190309.md)
 
 - ## 鹎科 [Pycnonotidae](https://en.wikipedia.org/wiki/Bulbul) Bulbul
   - ### 鹎属 [Pycnonotus](https://en.wikipedia.org/wiki/Pycnonotus)
