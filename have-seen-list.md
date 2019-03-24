@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 50
+Have-seen Species Counter: 52
 
 - ## 雉科 [Phasianidae](https://en.wikipedia.org/wiki/Phasianidae) 
 
@@ -115,6 +115,11 @@ Have-seen Species Counter: 50
 
 - ## 鳾科 [Sittidae](https://en.wikipedia.org/wiki/Nuthatch) Nuthatch
 
+- ## 攀雀科 [Remizidae](https://en.wikipedia.org/wiki/Penduline_tit) Penduline tit
+  - ### 攀雀属 [Remiz](https://en.wikipedia.org/wiki/Remiz)
+    - #### [中华攀雀](http://niaolei.org.cn/bird/b850.htm) [Chinese Penduline Tit](https://en.wikipedia.org/wiki/Chinese_penduline_tit)
+        - ###### First Sight: [2019-03-24](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190324.md)
+
 - ## 山雀科 [Paridae](https://en.wikipedia.org/wiki/Tit_(bird)) Tit
   - ### 山雀属 [Parus](https://en.wikipedia.org/wiki/Parus)
     - #### [大山雀/远东山雀](http://niaolei.org.cn/bird/b862.htm) [Great Tit](https://en.wikipedia.org/wiki/Great_tit)/[Oriental Tit](https://en.wikipedia.org/wiki/Japanese_tit)
@@ -156,6 +161,8 @@ Have-seen Species Counter: 50
   - ### 文鸟属 [Lonchura](https://en.wikipedia.org/wiki/Lonchura)
     - #### [白腰文鸟](http://niaolei.org.cn/bird/b1239.htm) [White-rumped Munia](https://en.wikipedia.org/wiki/White-rumped_munia)
         - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
+    - #### [斑文鸟](http://niaolei.org.cn/bird/b1240.htm) [Scaly-breasted Munia](https://en.wikipedia.org/wiki/Scaly-breasted_munia)
+        - ###### First Sight: [2019-03-24](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190324.md)
 
 - ## 鹡鸰科 [Motacillidae](https://en.wikipedia.org/wiki/Motacillidae)
   - ### 鹡鸰属 [Motacilla](https://en.wikipedia.org/wiki/Wagtail)
