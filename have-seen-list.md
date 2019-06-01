@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 53
+Have-seen Species Counter: 54
 
 - ## 雉科 [Phasianidae](https://en.wikipedia.org/wiki/Phasianidae) 
 
@@ -139,6 +139,9 @@ Have-seen Species Counter: 53
   - ### 鹎属 [Pycnonotus](https://en.wikipedia.org/wiki/Pycnonotus)
     - #### [白头鹎](http://niaolei.org.cn/bird/b898.htm) [Light-vented Bulbul](https://en.wikipedia.org/wiki/Light-vented_bulbul)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
+  - ### 短脚鹎属 [Hemixos](https://en.wikipedia.org/wiki/Hemixos)
+    - #### 栗背短脚鹎 [Chestnut bulbul](https://en.wikipedia.org/wiki/Chestnut_bulbul)
+        - ###### First Sight: [2019-05-01](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190501.md)
 
 - ## 绣眼鸟科 [Zosteropidae](https://en.wikipedia.org/wiki/White-eye) White-eye
   - ### 绣眼鸟属 [Zosterops](https://en.wikipedia.org/wiki/Zosterops)
