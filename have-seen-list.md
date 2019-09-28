@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 54
+Have-seen Species Counter: 56
 
 - ## 雉科 [Phasianidae](https://en.wikipedia.org/wiki/Phasianidae) 
 
@@ -26,6 +26,9 @@ Have-seen Species Counter: 54
   - ### 珠颈斑鸠属 [Spilopelia](https://en.wikipedia.org/wiki/Spilopelia)
     - #### [珠颈斑鸠](http://niaolei.org.cn/bird/b276.htm) [Spotted Dove](https://en.wikipedia.org/wiki/Spotted_dove)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
+  - ### 斑鸠属 [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia)
+    - #### 	山斑鸠 [Oriental Turtle Dove](https://en.wikipedia.org/wiki/Oriental_turtle_dove)
+        - ###### First Sight [2019-09-28](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190928.md)
 
 - ## 秧鸡科 [Rallidae](https://en.wikipedia.org/wiki/Rail_(bird))
   - ### 骨顶属 [Fulica](https://en.wikipedia.org/wiki/Coot)
@@ -66,6 +69,9 @@ Have-seen Species Counter: 54
   - ### 夜鹭属 [Nycticorax](https://en.wikipedia.org/wiki/Nycticorax)
     - #### [夜鹭](http://niaolei.org.cn/bird/b547.htm) [Black-crowned Night-Heron](https://en.wikipedia.org/wiki/Black-crowned_night_heron)
         - ###### First Sight: [2019-01-27](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190127.md)
+  - ### 池鹭属 [Ardeola](https://en.wikipedia.org/wiki/Pond_heron)
+    - #### 池鹭 [Chinese Pond Heron](https://en.wikipedia.org/wiki/Chinese_Pond_Heron)
+        - ###### First Sight [2019-06-01](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190601.md)
 
 - ## 伯劳科 [Laniidae](https://en.wikipedia.org/wiki/Shrike) Shrike
   - ### 伯劳属 [Lanius](https://en.wikipedia.org/wiki/Lanius)
