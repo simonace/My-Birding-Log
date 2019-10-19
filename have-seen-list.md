@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 56
+Have-seen Species Counter: 57
 
 - ## 雉科 [Phasianidae](https://en.wikipedia.org/wiki/Phasianidae) 
 
@@ -163,6 +163,11 @@ Have-seen Species Counter: 56
   - ### 柳莺属 [Phylloscopus](https://en.wikipedia.org/wiki/Leaf_warbler)
     - #### [黄腰柳莺](http://niaolei.org.cn/bird/b984.htm) [Pallas's leaf warbler](https://en.wikipedia.org/wiki/Pallas%27s_leaf_warbler)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
+
+- ## 扇尾莺科 [Cisticolidae](https://en.wikipedia.org/wiki/Cisticolidae)
+  - ### 鹪莺属 [Prinia](https://en.wikipedia.org/wiki/Prinia)
+    - #### 纯色山鹪莺 [Plain Prinia](https://en.wikipedia.org/wiki/Plain_Prinia)
+        - ###### First Sight: [2019-10-19](https://github.com/simonace/My-Birding-Log/blob/master/2019/20191019.md)
 
 - ## 麻雀科 [Passeridae](https://en.wikipedia.org/wiki/Sparrow) Sparrow
   - ### 麻雀属 [Passer](https://en.wikipedia.org/wiki/Passer)
