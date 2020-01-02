@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 58
+Have-seen Species Counter: 59
 
 - ## 隼科 [Falconidae](https://en.wikipedia.org/wiki/Falconidae)
   - ### 隼属 [Falco](https://en.wikipedia.org/wiki/Falcon)
@@ -123,6 +123,8 @@ Have-seen Species Counter: 58
   - ### 丝光椋鸟属 [Spodiopsar](https://en.wikipedia.org/wiki/Spodiopsar)
     - #### [灰椋鸟](http://niaolei.org.cn/bird/b821.htm) [White-cheeked Starling](https://en.wikipedia.org/wiki/White-cheeked_starling)
         - ###### First Sight: [2019-01-12](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190112.md)
+    - #### 丝光椋鸟 [Red-billed Starling](https://en.wikipedia.org/wiki/Red-billed_Starling)
+        - ###### First Sight: [2019-12-28](https://github.com/simonace/My-Birding-Log/blob/master/2019/20191228pm.md)
   - ### 斑椋鸟属 [Gracupica](https://en.wikipedia.org/wiki/Gracupica)
     - #### [黑领椋鸟](http://niaolei.org.cn/bird/b823.htm) [Black-collared Starling](https://en.wikipedia.org/wiki/Black-collared_starling)
         - ###### First Sight [2019-03-30](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190330.md)
