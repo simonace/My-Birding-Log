@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 59
+Have-seen Species Counter: 60
 
 - ## 隼科 [Falconidae](https://en.wikipedia.org/wiki/Falconidae)
   - ### 隼属 [Falco](https://en.wikipedia.org/wiki/Falcon)
@@ -210,6 +210,9 @@ Have-seen Species Counter: 59
   - ### 金翅雀属 [Chloris](https://en.wikipedia.org/wiki/Chloris_(bird))
     - #### [金翅雀](http://niaolei.org.cn/bird/b1246.htm) [Grey-capped Greenfinch](https://en.wikipedia.org/wiki/Grey-capped_greenfinch)
         - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
+  - ### 黄雀属 [Spinus](https://en.wikipedia.org/wiki/Spinus_(genus))
+    - #### 黄雀 [Eurasian Siskin](https://en.wikipedia.org/wiki/Eurasian_Siskin)
+        - ###### First Sight: [2020-01-01](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200101.md)
         
 - ## 鹀科 [Emberizidae](https://en.wikipedia.org/wiki/Emberizidae)
   - ### 鹀属 [Emberiza](https://en.wikipedia.org/wiki/Emberiza)
