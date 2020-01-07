@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 60
+Have-seen Species Counter: 61
 
 - ## 隼科 [Falconidae](https://en.wikipedia.org/wiki/Falconidae)
   - ### 隼属 [Falco](https://en.wikipedia.org/wiki/Falcon)
@@ -84,6 +84,9 @@ Have-seen Species Counter: 60
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
 
 - ## 鸦科 [Corvidae](https://en.wikipedia.org/wiki/Corvidae)
+  - ### 鸦属 [Corvus](https://en.wikipedia.org/wiki/Corvus)
+    - #### 秃鼻乌鸦 [Rook](https://en.wikipedia.org/wiki/Rook_(bird))
+        - ###### First Sight: [2020-01-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200105.md)
   - ### 喜鹊属 [Pica](https://en.wikipedia.org/wiki/Pica_(genus))
     - #### [喜鹊](http://niaolei.org.cn/bird/b636.htm) [Black-billed Magpie](https://en.wikipedia.org/wiki/Black-billed_magpie)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
