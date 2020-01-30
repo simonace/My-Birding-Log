@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 61
+Have-seen Species Counter: 62
 
 - ## 隼科 [Falconidae](https://en.wikipedia.org/wiki/Falconidae)
   - ### 隼属 [Falco](https://en.wikipedia.org/wiki/Falcon)
@@ -173,6 +173,8 @@ Have-seen Species Counter: 61
   - ### 柳莺属 [Phylloscopus](https://en.wikipedia.org/wiki/Leaf_warbler)
     - #### [黄腰柳莺](http://niaolei.org.cn/bird/b984.htm) [Pallas's leaf warbler](https://en.wikipedia.org/wiki/Pallas%27s_leaf_warbler)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
+    - #### 黄眉柳莺 [Yellow-browed warbler](https://en.wikipedia.org/wiki/Yellow-browed_warbler)
+        - ###### First Sight: [2020-01-21](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200121.md)
 
 - ## 扇尾莺科 [Cisticolidae](https://en.wikipedia.org/wiki/Cisticolidae)
   - ### 鹪莺属 [Prinia](https://en.wikipedia.org/wiki/Prinia)
