@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 62
+Have-seen Species Counter: 63
 
 - ## 隼科 [Falconidae](https://en.wikipedia.org/wiki/Falconidae)
   - ### 隼属 [Falco](https://en.wikipedia.org/wiki/Falcon)
@@ -45,6 +45,11 @@ Have-seen Species Counter: 62
   - ### 苦恶鸟属 [Amaurornis](https://en.wikipedia.org/wiki/Amaurornis)
     - #### [白胸苦恶鸟](http://niaolei.org.cn/bird/b313.htm) [White-breasted Waterhen](https://en.wikipedia.org/wiki/White-breasted_waterhen)
         - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
+
+- ## 鸻科 [Charadriidae](http://en.wikipedia.org/wiki/Charadriidae)
+  - ### 鸻属 [Charadrius](https://en.wikipedia.org/wiki/Charadrius)
+    - #### 金眶鸻 [Little Ringed Plover](https://en.wikipedia.org/wiki/Little_ringed_plover)
+       - ###### First Sight: [2020-03-15](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200315.md)
 
 - ## 鹬科 [Scolopacidae](https://en.wikipedia.org/wiki/Sandpiper) Sandpiper
   - ### 矶鹬属 [Actitis](https://en.wikipedia.org/wiki/Actitis)
