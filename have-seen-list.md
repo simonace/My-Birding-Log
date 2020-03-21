@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 63
+Have-seen Species Counter: 64
 
 - ## 隼科 [Falconidae](https://en.wikipedia.org/wiki/Falconidae)
   - ### 隼属 [Falco](https://en.wikipedia.org/wiki/Falcon)
@@ -223,6 +223,11 @@ Have-seen Species Counter: 63
   - ### 黄雀属 [Spinus](https://en.wikipedia.org/wiki/Spinus_(genus))
     - #### 黄雀 [Eurasian Siskin](https://en.wikipedia.org/wiki/Eurasian_Siskin)
         - ###### First Sight: [2020-01-01](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200101.md)
+        
+- ## 噪鹛科 [Leiothrichidae](https://en.wikipedia.org/wiki/Leiothrichidae)
+  - ### 相思鸟属 [Leiothrix](https://en.wikipedia.org/wiki/Leiothrix_(bird))
+    - #### 红嘴相思鸟 [Red-billed Leiothrix](https://en.wikipedia.org/wiki/Red-billed_leiothrix)
+        - ###### First Sight [2020-03-21](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200321.md)
         
 - ## 鹀科 [Emberizidae](https://en.wikipedia.org/wiki/Emberizidae)
   - ### 鹀属 [Emberiza](https://en.wikipedia.org/wiki/Emberiza)
