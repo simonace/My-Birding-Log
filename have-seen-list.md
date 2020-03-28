@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 64
+Have-seen Species Counter: 65
 
 - ## 隼科 [Falconidae](https://en.wikipedia.org/wiki/Falconidae)
   - ### 隼属 [Falco](https://en.wikipedia.org/wiki/Falcon)
@@ -225,6 +225,9 @@ Have-seen Species Counter: 64
         - ###### First Sight: [2020-01-01](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200101.md)
         
 - ## 噪鹛科 [Leiothrichidae](https://en.wikipedia.org/wiki/Leiothrichidae)
+  - ### 噪鹛属 [Garrulax](https://en.wikipedia.org/wiki/Garrulax)
+    - #### 画眉 [Chinese Hwamei](https://en.wikipedia.org/wiki/Chinese_hwamei)
+        - ###### First Sight [2020-03-28](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200328.md)
   - ### 相思鸟属 [Leiothrix](https://en.wikipedia.org/wiki/Leiothrix_(bird))
     - #### 红嘴相思鸟 [Red-billed Leiothrix](https://en.wikipedia.org/wiki/Red-billed_leiothrix)
         - ###### First Sight [2020-03-21](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200321.md)
