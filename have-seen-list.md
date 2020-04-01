@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 65
+Have-seen Species Counter: 66
 
 - ## 隼科 [Falconidae](https://en.wikipedia.org/wiki/Falconidae)
   - ### 隼属 [Falco](https://en.wikipedia.org/wiki/Falcon)
@@ -173,6 +173,11 @@ Have-seen Species Counter: 65
   - ### 棕头鸦雀属 [Sinosuthora](https://en.wikipedia.org/wiki/Sinosuthora)
     - #### [棕头鸦雀](http://niaolei.org.cn/bird/b1145.htm) [Vinous-throated Parrotbill](https://en.wikipedia.org/wiki/Vinous-throated_parrotbill)
         - ###### First Sight: [2019-02-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190206.md)
+
+- ## 树莺科 [Cettiidae](https://en.wikipedia.org/wiki/Cettiidae)
+  - ### 拟鹟莺属 [Abroscopus](https://en.wikipedia.org/wiki/Abroscopus)
+    - #### 棕脸鹟莺 [Rufous-faced Warbler](https://en.wikipedia.org/wiki/Rufous-faced_warbler)
+        - ###### First Sight: [2020-04-01](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200401am.md)
 
 - ## 柳莺科 [Phylloscopidae](https://en.wikipedia.org/wiki/Phylloscopidae)
   - ### 柳莺属 [Phylloscopus](https://en.wikipedia.org/wiki/Leaf_warbler)
