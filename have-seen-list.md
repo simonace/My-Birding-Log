@@ -39,7 +39,7 @@ Have-seen Species Counter: 66
   - ### 骨顶属 [Fulica](https://en.wikipedia.org/wiki/Coot)
     - #### [骨顶鸡](http://niaolei.org.cn/bird/b324.htm) [Common Coot](https://en.wikipedia.org/wiki/Eurasian_coot)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
-  - ### 黑水鸡属 [Gallinula](https://en.wikipedia.org/wiki/Moorhen)
+  - ### 水鸡属 [Gallinula](https://en.wikipedia.org/wiki/Moorhen)
     - #### [黑水鸡](http://niaolei.org.cn/bird/b323.htm) [Common Moorhen](https://en.wikipedia.org/wiki/Common_moorhen)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
   - ### 苦恶鸟属 [Amaurornis](https://en.wikipedia.org/wiki/Amaurornis)
@@ -51,7 +51,7 @@ Have-seen Species Counter: 66
     - #### 金眶鸻 [Little Ringed Plover](https://en.wikipedia.org/wiki/Little_ringed_plover)
        - ###### First Sight: [2020-03-15](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200315.md)
 
-- ## 鹬科 [Scolopacidae](https://en.wikipedia.org/wiki/Sandpiper) Sandpiper
+- ## 丘鹬科 [Scolopacidae](https://en.wikipedia.org/wiki/Sandpiper) Sandpiper
   - ### 矶鹬属 [Actitis](https://en.wikipedia.org/wiki/Actitis)
     - #### [矶鹬](http://niaolei.org.cn/bird/b351.htm) [Common Sandpiper](https://en.wikipedia.org/wiki/Common_sandpiper)
         - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
@@ -92,7 +92,7 @@ Have-seen Species Counter: 66
   - ### 鸦属 [Corvus](https://en.wikipedia.org/wiki/Corvus)
     - #### 秃鼻乌鸦 [Rook](https://en.wikipedia.org/wiki/Rook_(bird))
         - ###### First Sight: [2020-01-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200105.md)
-  - ### 喜鹊属 [Pica](https://en.wikipedia.org/wiki/Pica_(genus))
+  - ### 鹊属 [Pica](https://en.wikipedia.org/wiki/Pica_(genus))
     - #### [喜鹊](http://niaolei.org.cn/bird/b636.htm) [Black-billed Magpie](https://en.wikipedia.org/wiki/Black-billed_magpie)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
   - ### 灰喜鹊属 [Cyanopica](https://en.wikipedia.org/wiki/Cyanopica)
@@ -160,7 +160,7 @@ Have-seen Species Counter: 66
   - ### 鹎属 [Pycnonotus](https://en.wikipedia.org/wiki/Pycnonotus)
     - #### [白头鹎](http://niaolei.org.cn/bird/b898.htm) [Light-vented Bulbul](https://en.wikipedia.org/wiki/Light-vented_bulbul)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
-  - ### 短脚鹎属 [Hemixos](https://en.wikipedia.org/wiki/Hemixos)
+  - ### 灰短脚鹎属 [Hemixos](https://en.wikipedia.org/wiki/Hemixos)
     - #### 栗背短脚鹎 [Chestnut bulbul](https://en.wikipedia.org/wiki/Chestnut_bulbul)
         - ###### First Sight: [2019-05-01](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190501.md)
 
@@ -187,12 +187,12 @@ Have-seen Species Counter: 66
         - ###### First Sight: [2020-01-21](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200121.md)
 
 - ## 扇尾莺科 [Cisticolidae](https://en.wikipedia.org/wiki/Cisticolidae)
-  - ### 鹪莺属 [Prinia](https://en.wikipedia.org/wiki/Prinia)
+  - ### 山鹪莺属 [Prinia](https://en.wikipedia.org/wiki/Prinia)
     - #### 纯色山鹪莺 [Plain Prinia](https://en.wikipedia.org/wiki/Plain_Prinia)
         - ###### First Sight: [2019-10-19](https://github.com/simonace/My-Birding-Log/blob/master/2019/20191019.md)
 
-- ## 麻雀科 [Passeridae](https://en.wikipedia.org/wiki/Sparrow) Sparrow
-  - ### 麻雀属 [Passer](https://en.wikipedia.org/wiki/Passer)
+- ## 雀科 [Passeridae](https://en.wikipedia.org/wiki/Sparrow) Sparrow
+  - ### 雀属 [Passer](https://en.wikipedia.org/wiki/Passer)
     - #### [树麻雀](http://niaolei.org.cn/bird/b1198.htm) [Eurasian Tree Sparrow](https://en.wikipedia.org/wiki/Eurasian_tree_sparrow)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
 
