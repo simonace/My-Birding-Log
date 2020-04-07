@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 66
+Have-seen Species Counter: 75
 
 - ## 隼科 [Falconidae](https://en.wikipedia.org/wiki/Falconidae)
   - ### 隼属 [Falco](https://en.wikipedia.org/wiki/Falcon)
@@ -49,15 +49,32 @@ Have-seen Species Counter: 66
 - ## 鸻科 [Charadriidae](http://en.wikipedia.org/wiki/Charadriidae)
   - ### 鸻属 [Charadrius](https://en.wikipedia.org/wiki/Charadrius)
     - #### 金眶鸻 [Little Ringed Plover](https://en.wikipedia.org/wiki/Little_ringed_plover)
-       - ###### First Sight: [2020-03-15](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200315.md)
+        - ###### First Sight: [2020-03-15](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200315.md)
+    - #### 环颈鸻 [Kentish Plover](http://en.wikipedia.org/wiki/Kentish_plover)
+        - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
+
 
 - ## 丘鹬科 [Scolopacidae](https://en.wikipedia.org/wiki/Sandpiper) Sandpiper
-  - ### 矶鹬属 [Actitis](https://en.wikipedia.org/wiki/Actitis)
-    - #### [矶鹬](http://niaolei.org.cn/bird/b351.htm) [Common Sandpiper](https://en.wikipedia.org/wiki/Common_sandpiper)
-        - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
   - ### 鹬属 [Tringa](https://en.wikipedia.org/wiki/Tringa)
     - #### [白腰草鹬](http://niaolei.org.cn/bird/b348.htm) [Green Sandpiper](https://en.wikipedia.org/wiki/Green_sandpiper)
         - ###### First Sight: [2019-01-20](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190120.md)
+    - #### 红脚鹬 [Common Redshank](http://en.wikipedia.org/wiki/Common_redshank)
+        - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
+    - #### 鹤鹬 [Spotted Redshank](http://en.wikipedia.org/wiki/Spotted_redshank)
+        - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
+    - #### 泽鹬 [Marsh Sandpiper](http://en.wikipedia.org/wiki/Marsh_sandpiper)
+        - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
+  - ### 矶鹬属 [Actitis](https://en.wikipedia.org/wiki/Actitis)
+    - #### [矶鹬](http://niaolei.org.cn/bird/b351.htm) [Common Sandpiper](https://en.wikipedia.org/wiki/Common_sandpiper)
+        - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)      
+
+- ## 反嘴鹬科 [Recurvirostridae](https://en.wikipedia.org/wiki/Recurvirostridae)
+  - ### 反嘴鹬属 [Recurvirostra](https://en.wikipedia.org/wiki/Avocet) Avocet
+    - #### 反嘴鹬 [Pied Avocet](http://en.wikipedia.org/wiki/Pied_avocet)
+        - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
+  - ### 长脚鹬属 [Himantopus](http://en.wikipedia.org/wiki/Stilt) Stilt
+    - #### 黑翅长脚鹬 [Black-winged Stilt](http://en.wikipedia.org/wiki/Black-winged_stilt)
+        - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
 
 - ## 鸥科 [Laridae](https://en.wikipedia.org/wiki/Laridae)
   - ### 鸥属 [Larus](https://en.wikipedia.org/wiki/Larus)
@@ -209,9 +226,13 @@ Have-seen Species Counter: 66
         - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
     - #### [灰鹡鸰](http://niaolei.org.cn/bird/b1212.htm) [Grey Wagtail](https://en.wikipedia.org/wiki/Grey_wagtail)
         - ###### First Sight: [2019-02-03](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190203.md)
+    - #### 黄鹡鸰 [Eastern Yellow Wagtail](http://en.wikipedia.org/wiki/Eastern_yellow_wagtail)
+        - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
   - ### 鹨属 [Anthus](https://en.wikipedia.org/wiki/Pipit)
     - #### [树鹨](http://niaolei.org.cn/bird/b1218.htm) [Olive-backed Pipit](https://en.wikipedia.org/wiki/Olive-backed_pipit)
         - ###### First Sight: [2019-01-01](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190101.md)
+    - #### 黄腹鹨 [Buff-bellied Pipit](https://en.wikipedia.org/wiki/Buff-bellied_pipit)
+        - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
 
 - ## 燕雀科 [Fringillidae](https://en.wikipedia.org/wiki/Finch) Finch
   - ### 蜡嘴雀属 [Eophona](https://en.wikipedia.org/wiki/Eophona)
@@ -247,6 +268,8 @@ Have-seen Species Counter: 66
         - ###### First Sight: [2019-02-03](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190203.md)
     - #### [黄喉鹀](http://niaolei.org.cn/bird/b1316.htm) [Yellow-throated Bunting](https://en.wikipedia.org/wiki/Yellow-throated_bunting)
         - ###### First Sight [2019-03-09](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190309.md)
+    - #### 小鹀 [Little Bunting](http://en.wikipedia.org/wiki/Little_bunting)
+        - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
         
 - ## 戴胜科 [Upupidae](https://en.wikipedia.org/wiki/Hoopoe)
   - ### 戴胜属 [Upupa](https://en.wikipedia.org/wiki/Hoopoe)
