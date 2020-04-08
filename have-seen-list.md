@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 75
+Have-seen Species Counter: 78
 
 - ## 隼科 [Falconidae](https://en.wikipedia.org/wiki/Falconidae)
   - ### 隼属 [Falco](https://en.wikipedia.org/wiki/Falcon)
@@ -66,7 +66,12 @@ Have-seen Species Counter: 75
         - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
   - ### 矶鹬属 [Actitis](https://en.wikipedia.org/wiki/Actitis)
     - #### [矶鹬](http://niaolei.org.cn/bird/b351.htm) [Common Sandpiper](https://en.wikipedia.org/wiki/Common_sandpiper)
-        - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)      
+        - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
+  - ### 滨鹬属 [Calidris](https://en.wikipedia.org/wiki/Calidris)
+    - #### 尖尾滨鹬 [Sharp-tailed Sandpiper](http://en.wikipedia.org/wiki/Sharp-tailed_sandpiper)
+        - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
+    - #### 红颈滨鹬 [Red-necked Stint](http://en.wikipedia.org/wiki/Red-necked_stint)
+        - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
 
 - ## 反嘴鹬科 [Recurvirostridae](https://en.wikipedia.org/wiki/Recurvirostridae)
   - ### 反嘴鹬属 [Recurvirostra](https://en.wikipedia.org/wiki/Avocet) Avocet
@@ -227,6 +232,8 @@ Have-seen Species Counter: 75
     - #### [灰鹡鸰](http://niaolei.org.cn/bird/b1212.htm) [Grey Wagtail](https://en.wikipedia.org/wiki/Grey_wagtail)
         - ###### First Sight: [2019-02-03](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190203.md)
     - #### 黄鹡鸰 [Eastern Yellow Wagtail](http://en.wikipedia.org/wiki/Eastern_yellow_wagtail)
+        - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
+    - #### 黄头鹡鸰 [Citrine Wagtail](http://en.wikipedia.org/wiki/Citrine_wagtail)
         - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
   - ### 鹨属 [Anthus](https://en.wikipedia.org/wiki/Pipit)
     - #### [树鹨](http://niaolei.org.cn/bird/b1218.htm) [Olive-backed Pipit](https://en.wikipedia.org/wiki/Olive-backed_pipit)
