@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 79
+Have-seen Species Counter: 82
 
 - ## 鹰科 [Accipitridae](http://en.wikipedia.org/wiki/Accipitridae)
   - ### 鹰属 [Accipiter](http://en.wikipedia.org/wiki/Accipiter)
@@ -147,6 +147,10 @@ Have-seen Species Counter: 79
         - ###### First Sight: [2019-01-20](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190120.md)
     - #### [斑鸫](http://niaolei.org.cn/bird/b717.htm) [Dusky Thrush](https://en.wikipedia.org/wiki/Dusky_thrush)
         - ###### First Sight: [2019-02-02](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190202.md)
+    - #### 乌灰鸫 [Japanese Thrush](https://en.wikipedia.org/wiki/Japanese_thrush)
+        - ###### First Sight [2020-04-12](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200412.md)
+    - #### 赤胸鸫 [Brown-headed Thrush](http://en.wikipedia.org/wiki/Brown-headed_thrush)
+        - ###### First Sight [2020-04-12](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200412.md)
   - ### 地鸫属 [Zoothera](https://en.wikipedia.org/wiki/Asian_thrush)
     - #### [虎斑地鸫/怀氏虎鸫](http://niaolei.org.cn/bird/b700.htm) [Scaly Thrush](https://en.wikipedia.org/wiki/Scaly_thrush)/[White's Thrush](https://en.wikipedia.org/wiki/White%27s_thrush)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
@@ -287,3 +291,8 @@ Have-seen Species Counter: 79
   - ### 戴胜属 [Upupa](https://en.wikipedia.org/wiki/Hoopoe)
     - #### [戴胜](http://niaolei.org.cn/bird/b163.htm) [Eurasian Hoopoe](https://en.wikipedia.org/wiki/Eurasian_hoopoe)
         - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
+        
+- ## 啄木鸟科 [Picidae](http://en.wikipedia.org/wiki/Woodpecker) Woodpecker
+  - ### 蚁䴕属 [Jynx](http://en.wikipedia.org/wiki/Wryneck) Wryneck
+    - #### 蚁䴕 [Eurasian Wryneck](https://en.wikipedia.org/wiki/Eurasian_wryneck)
+        - ###### First Sight [2020-04-12](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200412.md)
