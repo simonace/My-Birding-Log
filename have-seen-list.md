@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 82
+Have-seen Species Counter: 84
 
 - ## 鹰科 [Accipitridae](http://en.wikipedia.org/wiki/Accipitridae)
   - ### 鹰属 [Accipiter](http://en.wikipedia.org/wiki/Accipiter)
@@ -20,6 +20,8 @@ Have-seen Species Counter: 82
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
     - #### [绿头鸭](http://niaolei.org.cn/bird/b89.htm) [Mallard](https://en.wikipedia.org/wiki/Mallard)
         - ###### First Sight: [2018-12-23](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181223.md)
+    - #### 绿翅鸭 [Eurasian Teal](http://en.wikipedia.org/wiki/Eurasian_teal)
+        - ###### First Sight [2020-04-12](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200412.md)
   - ### 潜鸭属 [Aythya](https://en.wikipedia.org/wiki/Aythya)
     - #### [凤头潜鸭](http://niaolei.org.cn/bird/b103.htm) [Tufted Duck](https://en.wikipedia.org/wiki/Tufted_duck)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
@@ -77,6 +79,8 @@ Have-seen Species Counter: 82
         - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
     - #### 红颈滨鹬 [Red-necked Stint](http://en.wikipedia.org/wiki/Red-necked_stint)
         - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
+    - #### 三趾滨鹬 [Sanderling](https://en.wikipedia.org/wiki/Sanderling)
+        - ###### First Sight [2020-04-12](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200412.md)
 
 - ## 反嘴鹬科 [Recurvirostridae](https://en.wikipedia.org/wiki/Recurvirostridae)
   - ### 反嘴鹬属 [Recurvirostra](https://en.wikipedia.org/wiki/Avocet) Avocet
