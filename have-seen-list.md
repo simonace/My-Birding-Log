@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 84
+Have-seen Species Counter: 88
 
 - ## 鹰科 [Accipitridae](http://en.wikipedia.org/wiki/Accipitridae)
   - ### 鹰属 [Accipiter](http://en.wikipedia.org/wiki/Accipiter)
@@ -81,6 +81,12 @@ Have-seen Species Counter: 84
         - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
     - #### 三趾滨鹬 [Sanderling](https://en.wikipedia.org/wiki/Sanderling)
         - ###### First Sight [2020-04-12](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200412.md)
+  - ### 翘嘴鹬属 Xenus
+    - #### 翘嘴鹬 [Terek Sandpiper](https://en.wikipedia.org/wiki/Terek_sandpiper)
+        - ###### First Sight [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
+  - ### 沙锥属 [Gallinago](https://en.wikipedia.org/wiki/Gallinago)
+    - #### 扇尾沙锥 [Common Snipe](https://en.wikipedia.org/wiki/Common_snipe)
+        - ###### First Sight [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
 
 - ## 反嘴鹬科 [Recurvirostridae](https://en.wikipedia.org/wiki/Recurvirostridae)
   - ### 反嘴鹬属 [Recurvirostra](https://en.wikipedia.org/wiki/Avocet) Avocet
@@ -140,6 +146,9 @@ Have-seen Species Counter: 84
   - ### 鸲属 [Tarsiger](https://en.wikipedia.org/wiki/Tarsiger)
     - #### [红胁蓝尾鸲](http://niaolei.org.cn/bird/b773.htm) [Orange-flanked Bush-Robin](https://en.wikipedia.org/wiki/Red-flanked_bluetail)
         - ###### First Sight: [2019-01-19](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190119.md)
+  - ### 蓝鹟属 [Cyanoptila](https://en.wikipedia.org/wiki/Cyanoptila)
+    - #### 白腹蓝鹟 [Blue-and-white Flycatcher](https://en.wikipedia.org/wiki/Blue-and-white_flycatcher)
+        - ###### First Sight [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
         
 - ## 鸫科 [Turdidae](https://en.wikipedia.org/wiki/Thrush_(bird)) Thrush
   - ### 鸫属 [Turdus](https://en.wikipedia.org/wiki/True_thrush)
@@ -155,6 +164,8 @@ Have-seen Species Counter: 84
         - ###### First Sight [2020-04-12](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200412.md)
     - #### 赤胸鸫 [Brown-headed Thrush](http://en.wikipedia.org/wiki/Brown-headed_thrush)
         - ###### First Sight [2020-04-12](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200412.md)
+    - #### 白眉鸫 [Eyebrowed Thrush](http://en.wikipedia.org/wiki/Eyebrowed_thrush)
+        - ###### First Sight [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
   - ### 地鸫属 [Zoothera](https://en.wikipedia.org/wiki/Asian_thrush)
     - #### [虎斑地鸫/怀氏虎鸫](http://niaolei.org.cn/bird/b700.htm) [Scaly Thrush](https://en.wikipedia.org/wiki/Scaly_thrush)/[White's Thrush](https://en.wikipedia.org/wiki/White%27s_thrush)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
