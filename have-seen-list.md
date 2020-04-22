@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 88
+Have-seen Species Counter: 94
 
 - ## 鹰科 [Accipitridae](http://en.wikipedia.org/wiki/Accipitridae)
   - ### 鹰属 [Accipiter](http://en.wikipedia.org/wiki/Accipiter)
@@ -12,7 +12,10 @@ Have-seen Species Counter: 88
     - #### 红隼 [Common Kestrel](https://en.wikipedia.org/wiki/Common_kestrel)
         - ###### First Sight: [2019-12-07](https://github.com/simonace/My-Birding-Log/blob/master/2019/20191207.md)
 
-- ## 雉科 [Phasianidae](https://en.wikipedia.org/wiki/Phasianidae) 
+- ## 雉科 [Phasianidae](https://en.wikipedia.org/wiki/Phasianidae) Pheasant
+  - ### 雉属 [Phasianus](http://en.wikipedia.org/wiki/Phasianus)
+    - #### 雉鸡 [Common Pheasant](http://en.wikipedia.org/wiki/Common_pheasant)
+        - ###### First Sight: [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
 
 - ## 鸭科 [Anatidae](https://en.wikipedia.org/wiki/Anatidae)
   - ### 鸭属 [Anas](https://en.wikipedia.org/wiki/Anas)
@@ -59,6 +62,8 @@ Have-seen Species Counter: 88
         - ###### First Sight: [2020-03-15](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200315.md)
     - #### 环颈鸻 [Kentish Plover](http://en.wikipedia.org/wiki/Kentish_plover)
         - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
+    - #### 铁嘴沙鸻 [Greater Sand Plover](https://en.wikipedia.org/wiki/Greater_sand_plover)
+        - ###### First Sight [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
 
 
 - ## 丘鹬科 [Scolopacidae](https://en.wikipedia.org/wiki/Sandpiper) Sandpiper
@@ -124,6 +129,11 @@ Have-seen Species Counter: 88
   - ### 伯劳属 [Lanius](https://en.wikipedia.org/wiki/Lanius)
     - #### [棕背伯劳](http://niaolei.org.cn/bird/b616.htm) [Long-tailed Shrike](https://en.wikipedia.org/wiki/Long-tailed_shrike)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
+        
+- ## 鹃鵙科 [Campephagidae](https://en.wikipedia.org/wiki/Cuckooshrike) Cuckooshrike
+  - ### 山椒鸟属 [Pericrocotus](https://en.wikipedia.org/wiki/Minivet) Minivet
+    - #### 灰山椒鸟 [Ashy Minivet](http://en.wikipedia.org/wiki/Ashy_minivet)
+        - ###### First Sight [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
 
 - ## 鸦科 [Corvidae](https://en.wikipedia.org/wiki/Corvidae)
   - ### 鸦属 [Corvus](https://en.wikipedia.org/wiki/Corvus)
@@ -148,6 +158,9 @@ Have-seen Species Counter: 88
         - ###### First Sight: [2019-01-19](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190119.md)
   - ### 蓝鹟属 [Cyanoptila](https://en.wikipedia.org/wiki/Cyanoptila)
     - #### 白腹蓝鹟 [Blue-and-white Flycatcher](https://en.wikipedia.org/wiki/Blue-and-white_flycatcher)
+        - ###### First Sight [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
+  - ### 姬鹟属 [Ficedula](https://en.wikipedia.org/wiki/Ficedula)
+    - #### 黄眉姬鹟 [Narcissina Flycatcher](http://en.wikipedia.org/wiki/Narcissus_flycatcher)
         - ###### First Sight [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
         
 - ## 鸫科 [Turdidae](https://en.wikipedia.org/wiki/Thrush_(bird)) Thrush
@@ -231,6 +244,9 @@ Have-seen Species Counter: 88
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
     - #### 黄眉柳莺 [Yellow-browed warbler](https://en.wikipedia.org/wiki/Yellow-browed_warbler)
         - ###### First Sight: [2020-01-21](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200121.md)
+    - #### 褐柳莺 [Dusky Warbler](http://en.wikipedia.org/wiki/Dusky_warbler)
+        - ###### First Sight: [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
+    
 
 - ## 扇尾莺科 [Cisticolidae](https://en.wikipedia.org/wiki/Cisticolidae)
   - ### 山鹪莺属 [Prinia](https://en.wikipedia.org/wiki/Prinia)
@@ -301,6 +317,8 @@ Have-seen Species Counter: 88
         - ###### First Sight [2019-03-09](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190309.md)
     - #### 小鹀 [Little Bunting](http://en.wikipedia.org/wiki/Little_bunting)
         - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
+    - #### 黄眉鹀 [Yellow-browed Bunting](https://en.wikipedia.org/wiki/Yellow-browed_bunting)
+        - ###### First Sight [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
         
 - ## 戴胜科 [Upupidae](https://en.wikipedia.org/wiki/Hoopoe)
   - ### 戴胜属 [Upupa](https://en.wikipedia.org/wiki/Hoopoe)
