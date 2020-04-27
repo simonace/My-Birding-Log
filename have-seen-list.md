@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 94
+Have-seen Species Counter: 97
 
 - ## 鹰科 [Accipitridae](http://en.wikipedia.org/wiki/Accipitridae)
   - ### 鹰属 [Accipiter](http://en.wikipedia.org/wiki/Accipiter)
@@ -76,6 +76,8 @@ Have-seen Species Counter: 94
         - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
     - #### 泽鹬 [Marsh Sandpiper](http://en.wikipedia.org/wiki/Marsh_sandpiper)
         - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
+    - #### 青脚鹬 [Common Greenshank](http://en.wikipedia.org/wiki/Common_greenshank)
+        - ###### First Sight: [2020-04-25](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200425.md)
   - ### 矶鹬属 [Actitis](https://en.wikipedia.org/wiki/Actitis)
     - #### [矶鹬](http://niaolei.org.cn/bird/b351.htm) [Common Sandpiper](https://en.wikipedia.org/wiki/Common_sandpiper)
         - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
@@ -92,6 +94,9 @@ Have-seen Species Counter: 94
   - ### 沙锥属 [Gallinago](https://en.wikipedia.org/wiki/Gallinago)
     - #### 扇尾沙锥 [Common Snipe](https://en.wikipedia.org/wiki/Common_snipe)
         - ###### First Sight [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
+  - ### 杓鹬属 [Numenius](http://en.wikipedia.org/wiki/Curlew) Curlew
+    - #### 中杓鹬 [Whimbrel](http://en.wikipedia.org/wiki/Eurasian_whimbrel)
+        - ###### First Sight: [2020-04-25](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200425.md)
 
 - ## 反嘴鹬科 [Recurvirostridae](https://en.wikipedia.org/wiki/Recurvirostridae)
   - ### 反嘴鹬属 [Recurvirostra](https://en.wikipedia.org/wiki/Avocet) Avocet
@@ -246,6 +251,8 @@ Have-seen Species Counter: 94
         - ###### First Sight: [2020-01-21](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200121.md)
     - #### 褐柳莺 [Dusky Warbler](http://en.wikipedia.org/wiki/Dusky_warbler)
         - ###### First Sight: [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
+    - #### 黑眉柳莺 [Sulphur-breasted Warbler](http://en.wikipedia.org/wiki/Sulphur-breasted_warbler)
+        - ###### First Sight: [2020-04-25](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200425.md)
     
 
 - ## 扇尾莺科 [Cisticolidae](https://en.wikipedia.org/wiki/Cisticolidae)
