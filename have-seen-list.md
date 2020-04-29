@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 97
+Have-seen Species Counter: 100
 
 - ## 鹰科 [Accipitridae](http://en.wikipedia.org/wiki/Accipitridae)
   - ### 鹰属 [Accipiter](http://en.wikipedia.org/wiki/Accipiter)
@@ -128,7 +128,10 @@ Have-seen Species Counter: 97
         - ###### First Sight: [2019-01-27](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190127.md)
   - ### 池鹭属 [Ardeola](https://en.wikipedia.org/wiki/Pond_heron)
     - #### 池鹭 [Chinese Pond Heron](https://en.wikipedia.org/wiki/Chinese_Pond_Heron)
-        - ###### First Sight [2019-06-01](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190601.md)
+        - ###### First Sight: [2019-06-01](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190601.md)
+  - ### 苇鳽属 [Ixobrychus](https://en.wikipedia.org/wiki/Ixobrychus)
+    - #### 紫背苇鳽 [Von Schrenck's Bittern](http://en.wikipedia.org/wiki/Von_Schrenck's_bittern)
+        - ###### First Sight: [2020-04-27](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200427.md)
 
 - ## 伯劳科 [Laniidae](https://en.wikipedia.org/wiki/Shrike) Shrike
   - ### 伯劳属 [Lanius](https://en.wikipedia.org/wiki/Lanius)
@@ -307,10 +310,10 @@ Have-seen Species Counter: 97
 - ## 噪鹛科 [Leiothrichidae](https://en.wikipedia.org/wiki/Leiothrichidae)
   - ### 噪鹛属 [Garrulax](https://en.wikipedia.org/wiki/Garrulax)
     - #### 画眉 [Chinese Hwamei](https://en.wikipedia.org/wiki/Chinese_hwamei)
-        - ###### First Sight [2020-03-28](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200328.md)
+        - ###### First Sight: [2020-03-28](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200328.md)
   - ### 相思鸟属 [Leiothrix](https://en.wikipedia.org/wiki/Leiothrix_(bird))
     - #### 红嘴相思鸟 [Red-billed Leiothrix](https://en.wikipedia.org/wiki/Red-billed_leiothrix)
-        - ###### First Sight [2020-03-21](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200321.md)
+        - ###### First Sight: [2020-03-21](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200321.md)
         
 - ## 鹀科 [Emberizidae](https://en.wikipedia.org/wiki/Emberizidae)
   - ### 鹀属 [Emberiza](https://en.wikipedia.org/wiki/Emberiza)
@@ -321,11 +324,16 @@ Have-seen Species Counter: 97
     - #### [白眉鹀](http://niaolei.org.cn/bird/b1311.htm) [Tristram's Bunting](https://en.wikipedia.org/wiki/Tristram%27s_bunting)
         - ###### First Sight: [2019-02-03](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190203.md)
     - #### [黄喉鹀](http://niaolei.org.cn/bird/b1316.htm) [Yellow-throated Bunting](https://en.wikipedia.org/wiki/Yellow-throated_bunting)
-        - ###### First Sight [2019-03-09](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190309.md)
+        - ###### First Sight: [2019-03-09](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190309.md)
     - #### 小鹀 [Little Bunting](http://en.wikipedia.org/wiki/Little_bunting)
         - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
     - #### 黄眉鹀 [Yellow-browed Bunting](https://en.wikipedia.org/wiki/Yellow-browed_bunting)
-        - ###### First Sight [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
+        - ###### First Sight: [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
+        
+- ## 太平鸟科 Bombycillidae
+  - ### 太平鸟属 [Bombycilla](http://en.wikipedia.org/wiki/Waxwing) Waxwing
+    - #### 小太平鸟 [Japanese Waxwing](https://en.wikipedia.org/wiki/Japanese_waxwing)
+        - ###### First Sight: [2020-04-27](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200427.md)
         
 - ## 戴胜科 [Upupidae](https://en.wikipedia.org/wiki/Hoopoe)
   - ### 戴胜属 [Upupa](https://en.wikipedia.org/wiki/Hoopoe)
@@ -335,4 +343,7 @@ Have-seen Species Counter: 97
 - ## 啄木鸟科 [Picidae](http://en.wikipedia.org/wiki/Woodpecker) Woodpecker
   - ### 蚁䴕属 [Jynx](http://en.wikipedia.org/wiki/Wryneck) Wryneck
     - #### 蚁䴕 [Eurasian Wryneck](https://en.wikipedia.org/wiki/Eurasian_wryneck)
-        - ###### First Sight [2020-04-12](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200412.md)
+        - ###### First Sight: [2020-04-12](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200412.md)
+  - ### 啄木鸟属 [Dendrocopos](https://en.wikipedia.org/wiki/Dendrocopos)
+    - #### 大斑啄木鸟 [Great Spotted Woodpecker](http://en.wikipedia.org/wiki/Great_spotted_woodpecker)
+        - ###### First Sight: [2020-04-27](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200427.md)
