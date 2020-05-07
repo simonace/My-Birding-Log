@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 100
+Have-seen Species Counter: 104
 
 - ## 鹰科 [Accipitridae](http://en.wikipedia.org/wiki/Accipitridae)
   - ### 鹰属 [Accipiter](http://en.wikipedia.org/wiki/Accipiter)
@@ -63,7 +63,9 @@ Have-seen Species Counter: 100
     - #### 环颈鸻 [Kentish Plover](http://en.wikipedia.org/wiki/Kentish_plover)
         - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
     - #### 铁嘴沙鸻 [Greater Sand Plover](https://en.wikipedia.org/wiki/Greater_sand_plover)
-        - ###### First Sight [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
+        - ###### First Sight: [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
+    - #### 蒙古沙鸻 [Lesser Sand Plover](http://en.wikipedia.org/wiki/Lesser_sand_plover)
+        - ###### First Sight: [2020-05-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200505.md)
 
 
 - ## 丘鹬科 [Scolopacidae](https://en.wikipedia.org/wiki/Sandpiper) Sandpiper
@@ -123,12 +125,17 @@ Have-seen Species Counter: 100
   - ### 鹭属 [Ardea](https://en.wikipedia.org/wiki/Ardea_(genus))
     - #### [苍鹭](http://niaolei.org.cn/bird/b539.htm) [Grey Heron](https://en.wikipedia.org/wiki/Grey_heron)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
+    - #### 中白鹭 [Intermediate Egret](http://en.wikipedia.org/wiki/Intermediate_egret)
+        - ###### First Sight: [2020-05-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200505.md)
   - ### 夜鹭属 [Nycticorax](https://en.wikipedia.org/wiki/Nycticorax)
     - #### [夜鹭](http://niaolei.org.cn/bird/b547.htm) [Black-crowned Night-Heron](https://en.wikipedia.org/wiki/Black-crowned_night_heron)
         - ###### First Sight: [2019-01-27](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190127.md)
   - ### 池鹭属 [Ardeola](https://en.wikipedia.org/wiki/Pond_heron)
     - #### 池鹭 [Chinese Pond Heron](https://en.wikipedia.org/wiki/Chinese_Pond_Heron)
         - ###### First Sight: [2019-06-01](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190601.md)
+  - ### 牛背鹭属 [Bubulcus](https://en.wikipedia.org/wiki/Bubulcus)
+    - #### 牛背鹭 [Eastern Cattle Egret](http://en.wikipedia.org/wiki/Eastern_cattle_egret)
+        - ###### First Sight: [2020-05-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200505.md)
   - ### 苇鳽属 [Ixobrychus](https://en.wikipedia.org/wiki/Ixobrychus)
     - #### 紫背苇鳽 [Von Schrenck's Bittern](http://en.wikipedia.org/wiki/Von_Schrenck's_bittern)
         - ###### First Sight: [2020-04-27](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200427.md)
@@ -166,10 +173,15 @@ Have-seen Species Counter: 100
         - ###### First Sight: [2019-01-19](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190119.md)
   - ### 蓝鹟属 [Cyanoptila](https://en.wikipedia.org/wiki/Cyanoptila)
     - #### 白腹蓝鹟 [Blue-and-white Flycatcher](https://en.wikipedia.org/wiki/Blue-and-white_flycatcher)
-        - ###### First Sight [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
+        - ###### First Sight: [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
   - ### 姬鹟属 [Ficedula](https://en.wikipedia.org/wiki/Ficedula)
     - #### 黄眉姬鹟 [Narcissina Flycatcher](http://en.wikipedia.org/wiki/Narcissus_flycatcher)
-        - ###### First Sight [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
+        - ###### First Sight: [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
+        
+- ## 王鹟科 [Monarchidae](http://en.wikipedia.org/wiki/Monarch_flycatcher) Monarch Flycatcher
+  - ### 寿带属 [Terpsiphone](http://en.wikipedia.org/wiki/Paradise_flycatcher) Paradise Flycatcher
+    - #### 紫寿带 [Japanese Paradise-flycatcher](http://en.wikipedia.org/wiki/Japanese_paradise_flycatcher)
+        - ###### First Sight: [2020-05-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200505.md)
         
 - ## 鸫科 [Turdidae](https://en.wikipedia.org/wiki/Thrush_(bird)) Thrush
   - ### 鸫属 [Turdus](https://en.wikipedia.org/wiki/True_thrush)
