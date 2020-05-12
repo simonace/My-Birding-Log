@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 104
+Have-seen Species Counter: 117
 
 - ## 鹰科 [Accipitridae](http://en.wikipedia.org/wiki/Accipitridae)
   - ### 鹰属 [Accipiter](http://en.wikipedia.org/wiki/Accipiter)
@@ -11,6 +11,11 @@ Have-seen Species Counter: 104
   - ### 隼属 [Falco](https://en.wikipedia.org/wiki/Falcon)
     - #### 红隼 [Common Kestrel](https://en.wikipedia.org/wiki/Common_kestrel)
         - ###### First Sight: [2019-12-07](https://github.com/simonace/My-Birding-Log/blob/master/2019/20191207.md)
+        
+- ## 鸱鸮科 [Strigidae](http://en.wikipedia.org/wiki/True_owl) True Owl
+  - ### 鹰鸮属 [Ninox](http://en.wikipedia.org/wiki/Ninox)
+    - #### 北鹰鸮 [Northern Boobook](http://en.wikipedia.org/wiki/Northern_boobook)
+        - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
 
 - ## 雉科 [Phasianidae](https://en.wikipedia.org/wiki/Phasianidae) Pheasant
   - ### 雉属 [Phasianus](http://en.wikipedia.org/wiki/Phasianus)
@@ -36,14 +41,25 @@ Have-seen Species Counter: 104
   - ### 翠鸟属 [Alcedo](https://en.wikipedia.org/wiki/Alcedo)
     - #### [普通翠鸟](http://niaolei.org.cn/bird/b171.htm) [Common Kingfisher](https://en.wikipedia.org/wiki/Common_kingfisher)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
+  - ### 翡翠属 [Halcyon](http://en.wikipedia.org/wiki/Halcyon_(genus))
+    - #### 蓝翡翠 [Black-capped Kingfisher](http://en.wikipedia.org/wiki/Black-capped_kingfisher)
+        - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
 
 - ## 鸠鸽科 [Columbidae](https://en.wikipedia.org/wiki/Columbidae)
   - ### 珠颈斑鸠属 [Spilopelia](https://en.wikipedia.org/wiki/Spilopelia)
     - #### [珠颈斑鸠](http://niaolei.org.cn/bird/b276.htm) [Spotted Dove](https://en.wikipedia.org/wiki/Spotted_dove)
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
   - ### 斑鸠属 [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia)
-    - #### 	山斑鸠 [Oriental Turtle Dove](https://en.wikipedia.org/wiki/Oriental_turtle_dove)
-        - ###### First Sight [2019-09-28](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190928.md)
+    - #### 山斑鸠 [Oriental Turtle Dove](https://en.wikipedia.org/wiki/Oriental_turtle_dove)
+        - ###### First Sight: [2019-09-28](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190928.md)
+        
+- ## 杜鹃科 [Cuculidae](http://en.wikipedia.org/wiki/Cuckoo) Cuckoo
+  - ### 杜鹃属 [Cuculus](https://en.wikipedia.org/wiki/Cuculus)
+    - #### 大杜鹃 [Common Cuckoo](http://en.wikipedia.org/wiki/Common_cuckoo)
+        - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
+  - ### 鸦鹃属 [Centropus](http://en.wikipedia.org/wiki/Coucal) Coucal
+    - #### 小鸦鹃 [Lesser Coucal](https://en.wikipedia.org/wiki/Lesser_coucal)
+        - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
 
 - ## 秧鸡科 [Rallidae](https://en.wikipedia.org/wiki/Rail_(bird))
   - ### 骨顶属 [Fulica](https://en.wikipedia.org/wiki/Coot)
@@ -144,11 +160,13 @@ Have-seen Species Counter: 104
   - ### 伯劳属 [Lanius](https://en.wikipedia.org/wiki/Lanius)
     - #### [棕背伯劳](http://niaolei.org.cn/bird/b616.htm) [Long-tailed Shrike](https://en.wikipedia.org/wiki/Long-tailed_shrike)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
+    - #### 红尾伯劳 [Brown Shrike](http://en.wikipedia.org/wiki/Brown_shrike)
+        - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
         
 - ## 鹃鵙科 [Campephagidae](https://en.wikipedia.org/wiki/Cuckooshrike) Cuckooshrike
   - ### 山椒鸟属 [Pericrocotus](https://en.wikipedia.org/wiki/Minivet) Minivet
     - #### 灰山椒鸟 [Ashy Minivet](http://en.wikipedia.org/wiki/Ashy_minivet)
-        - ###### First Sight [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
+        - ###### First Sight: [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
 
 - ## 鸦科 [Corvidae](https://en.wikipedia.org/wiki/Corvidae)
   - ### 鸦属 [Corvus](https://en.wikipedia.org/wiki/Corvus)
@@ -161,7 +179,12 @@ Have-seen Species Counter: 104
     - #### [灰喜鹊](http://niaolei.org.cn/bird/b630.htm) [Azure-winged Magpie](https://en.wikipedia.org/wiki/Azure-winged_magpie)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
 
-- ## 鹟科 [Muscicapidae](https://en.wikipedia.org/wiki/Old_World_flycatcher)
+- ## 鹟科 [Muscicapidae](https://en.wikipedia.org/wiki/Old_World_flycatcher) Old World Flycatcher
+  - ### 鹟属 [Muscicapa](http://en.wikipedia.org/wiki/Muscicapa)
+    - #### 北灰鹟 [Asian Brown Flycatcher](http://en.wikipedia.org/wiki/Asian_brown_flycatcher)
+        - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
+    - #### 灰纹鹟 [Grey-streaked Flycatcher](http://en.wikipedia.org/wiki/Grey-streaked_flycatcher)
+        - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
   - ### 红尾鸲属 [Phoenicurus](https://en.wikipedia.org/wiki/Phoenicurus)
     - #### [北红尾鸲](http://niaolei.org.cn/bird/b787.htm) [Daurian Redstart](https://en.wikipedia.org/wiki/Daurian_redstart)
         - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
@@ -171,12 +194,19 @@ Have-seen Species Counter: 104
   - ### 鸲属 [Tarsiger](https://en.wikipedia.org/wiki/Tarsiger)
     - #### [红胁蓝尾鸲](http://niaolei.org.cn/bird/b773.htm) [Orange-flanked Bush-Robin](https://en.wikipedia.org/wiki/Red-flanked_bluetail)
         - ###### First Sight: [2019-01-19](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190119.md)
+  - ### 野鸲属 [Calliope](http://en.wikipedia.org/wiki/Calliope_(genus))
+    - #### 红喉歌鸲 [Siberian Rubythroat](http://en.wikipedia.org/wiki/Siberian_rubythroat)
+        - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
   - ### 蓝鹟属 [Cyanoptila](https://en.wikipedia.org/wiki/Cyanoptila)
     - #### 白腹蓝鹟 [Blue-and-white Flycatcher](https://en.wikipedia.org/wiki/Blue-and-white_flycatcher)
         - ###### First Sight: [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
   - ### 姬鹟属 [Ficedula](https://en.wikipedia.org/wiki/Ficedula)
     - #### 黄眉姬鹟 [Narcissina Flycatcher](http://en.wikipedia.org/wiki/Narcissus_flycatcher)
         - ###### First Sight: [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
+    - #### 白眉姬鹟 [Yellow-rumped Flycatcher](http://en.wikipedia.org/wiki/Yellow-rumped_flycatcher)
+        - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
+    - #### 鸲姬鹟 [Mugimaki Flycatcher](http://en.wikipedia.org/wiki/Mugimaki_flycatcher)
+        - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
         
 - ## 王鹟科 [Monarchidae](http://en.wikipedia.org/wiki/Monarch_flycatcher) Monarch Flycatcher
   - ### 寿带属 [Terpsiphone](http://en.wikipedia.org/wiki/Paradise_flycatcher) Paradise Flycatcher
@@ -202,6 +232,9 @@ Have-seen Species Counter: 104
   - ### 地鸫属 [Zoothera](https://en.wikipedia.org/wiki/Asian_thrush)
     - #### [虎斑地鸫/怀氏虎鸫](http://niaolei.org.cn/bird/b700.htm) [Scaly Thrush](https://en.wikipedia.org/wiki/Scaly_thrush)/[White's Thrush](https://en.wikipedia.org/wiki/White%27s_thrush)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
+  - ### 少斑地鸫属 [Geokichla](http://en.wikipedia.org/wiki/Geokichla)
+    - #### 白眉地鸫 [Siberian Thrush](http://en.wikipedia.org/wiki/Siberian_thrush)
+        - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
 
 - ## 椋鸟科 [Sturnidae](https://en.wikipedia.org/wiki/Starling) Starling
   - ### 八哥属 [Acridotheres](https://en.wikipedia.org/wiki/Acridotheres)
@@ -248,7 +281,10 @@ Have-seen Species Counter: 104
     - #### [暗绿绣眼鸟](http://niaolei.org.cn/bird/b925.htm) [Japanese White-eye](https://en.wikipedia.org/wiki/Japanese_white-eye)
         - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
 
-- ## 莺科 [Sylviidae](https://en.wikipedia.org/wiki/Sylviidae)
+- ## 莺鹛科 [Sylviidae](https://en.wikipedia.org/wiki/Sylviidae)
+  - ### 鸦雀属 [Paradoxornis](http://en.wikipedia.org/wiki/Parrotbill) Parrotbill
+    - #### 震旦鸦雀 [Reed Parrotbill](http://en.wikipedia.org/wiki/Reed_parrotbill)
+        - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
   - ### 棕头鸦雀属 [Sinosuthora](https://en.wikipedia.org/wiki/Sinosuthora)
     - #### [棕头鸦雀](http://niaolei.org.cn/bird/b1145.htm) [Vinous-throated Parrotbill](https://en.wikipedia.org/wiki/Vinous-throated_parrotbill)
         - ###### First Sight: [2019-02-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190206.md)
@@ -341,6 +377,8 @@ Have-seen Species Counter: 104
         - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
     - #### 黄眉鹀 [Yellow-browed Bunting](https://en.wikipedia.org/wiki/Yellow-browed_bunting)
         - ###### First Sight: [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
+    - #### 栗鹀 [Chestnut Bunting](http://en.wikipedia.org/wiki/Chestnut_bunting)
+        - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
         
 - ## 太平鸟科 Bombycillidae
   - ### 太平鸟属 [Bombycilla](http://en.wikipedia.org/wiki/Waxwing) Waxwing
