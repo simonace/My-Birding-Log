@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 117
+Have-seen Species Counter: 123
 
 - ## 鹰科 [Accipitridae](http://en.wikipedia.org/wiki/Accipitridae)
   - ### 鹰属 [Accipiter](http://en.wikipedia.org/wiki/Accipiter)
@@ -153,6 +153,8 @@ Have-seen Species Counter: 117
     - #### 牛背鹭 [Eastern Cattle Egret](http://en.wikipedia.org/wiki/Eastern_cattle_egret)
         - ###### First Sight: [2020-05-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200505.md)
   - ### 苇鳽属 [Ixobrychus](https://en.wikipedia.org/wiki/Ixobrychus)
+    - #### 黄苇鳽 [Yellow Bittern](http://en.wikipedia.org/wiki/Yellow_bittern)
+        - ###### First Sight: [2020-05-16](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200516.md)
     - #### 紫背苇鳽 [Von Schrenck's Bittern](http://en.wikipedia.org/wiki/Von_Schrenck's_bittern)
         - ###### First Sight: [2020-04-27](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200427.md)
 
@@ -197,6 +199,9 @@ Have-seen Species Counter: 117
   - ### 野鸲属 [Calliope](http://en.wikipedia.org/wiki/Calliope_(genus))
     - #### 红喉歌鸲 [Siberian Rubythroat](http://en.wikipedia.org/wiki/Siberian_rubythroat)
         - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
+  - ### 鸲鸟属 [Larvivora](http://en.wikipedia.org/wiki/Larvivora)
+    - #### 红尾歌鸲 [Rufous-tailed Robin](http://en.wikipedia.org/wiki/Rufous-tailed_robin)
+        - ###### First Sight: [2020-05-16](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200516.md)
   - ### 蓝鹟属 [Cyanoptila](https://en.wikipedia.org/wiki/Cyanoptila)
     - #### 白腹蓝鹟 [Blue-and-white Flycatcher](https://en.wikipedia.org/wiki/Blue-and-white_flycatcher)
         - ###### First Sight: [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
@@ -247,7 +252,7 @@ Have-seen Species Counter: 117
         - ###### First Sight: [2019-12-28](https://github.com/simonace/My-Birding-Log/blob/master/2019/20191228pm.md)
   - ### 斑椋鸟属 [Gracupica](https://en.wikipedia.org/wiki/Gracupica)
     - #### [黑领椋鸟](http://niaolei.org.cn/bird/b823.htm) [Black-collared Starling](https://en.wikipedia.org/wiki/Black-collared_starling)
-        - ###### First Sight [2019-03-30](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190330.md)
+        - ###### First Sight: [2019-03-30](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190330.md)
 
 - ## 鳾科 [Sittidae](https://en.wikipedia.org/wiki/Nuthatch) Nuthatch
 
@@ -266,7 +271,7 @@ Have-seen Species Counter: 117
   - ### 黄山雀属 [Machlolophus](https://en.wikipedia.org/wiki/Machlolophus)
   - ### 黄腹山雀属 [Pardaliparus](https://en.wikipedia.org/wiki/Pardaliparus)
     - #### [黄腹山雀](http://niaolei.org.cn/bird/b860.htm) [Yellow-bellied Tit](https://en.wikipedia.org/wiki/Yellow-bellied_tit)
-        - ###### First Sight [2019-03-23](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190323.md)
+        - ###### First Sight: [2019-03-23](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190323.md)
 
 - ## 鹎科 [Pycnonotidae](https://en.wikipedia.org/wiki/Bulbul) Bulbul
   - ### 鹎属 [Pycnonotus](https://en.wikipedia.org/wiki/Pycnonotus)
@@ -275,6 +280,9 @@ Have-seen Species Counter: 117
   - ### 灰短脚鹎属 [Hemixos](https://en.wikipedia.org/wiki/Hemixos)
     - #### 栗背短脚鹎 [Chestnut bulbul](https://en.wikipedia.org/wiki/Chestnut_bulbul)
         - ###### First Sight: [2019-05-01](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190501.md)
+  - ### 雀嘴鹎属 [Spizixos](http://en.wikipedia.org/wiki/Spizixos)
+    - #### 领雀嘴鹎 [Collared Finchbill](http://en.wikipedia.org/wiki/Collared_finchbill)
+        - ###### First Sight: [2020-05-16](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200516.md)
 
 - ## 绣眼鸟科 [Zosteropidae](https://en.wikipedia.org/wiki/White-eye) White-eye
   - ### 绣眼鸟属 [Zosterops](https://en.wikipedia.org/wiki/Zosterops)
@@ -302,8 +310,17 @@ Have-seen Species Counter: 117
         - ###### First Sight: [2020-01-21](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200121.md)
     - #### 褐柳莺 [Dusky Warbler](http://en.wikipedia.org/wiki/Dusky_warbler)
         - ###### First Sight: [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
+    - #### 冕柳莺 [Eastern Crowned Warbler](https://en.wikipedia.org/wiki/Eastern_crowned_warbler)
+        - ###### First Sight: [2020-05-16](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200516.md)
+    - #### 极北柳莺 [Arctic Warbler](https://en.wikipedia.org/wiki/Arctic_warbler)
+        - ###### First Sight: [2020-05-16](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200516.md)
     - #### 黑眉柳莺 [Sulphur-breasted Warbler](http://en.wikipedia.org/wiki/Sulphur-breasted_warbler)
         - ###### First Sight: [2020-04-25](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200425.md)
+        
+- ## 苇莺科 [Acrocephalidae](http://en.wikipedia.org/wiki/Acrocephalidae)
+  - ### 苇莺属 [Acrocephalus](http://en.wikipedia.org/wiki/Acrocephalus_(bird))
+    - #### 东方大苇莺 [Oriental Reed Warbler](http://en.wikipedia.org/wiki/Oriental_reed_warbler)
+        - ###### First Sight: [2020-05-16](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200516.md)
     
 
 - ## 扇尾莺科 [Cisticolidae](https://en.wikipedia.org/wiki/Cisticolidae)
