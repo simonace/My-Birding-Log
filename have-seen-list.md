@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 123
+Have-seen Species Counter: 124
 
 - ## 鹰科 [Accipitridae](http://en.wikipedia.org/wiki/Accipitridae)
   - ### 鹰属 [Accipiter](http://en.wikipedia.org/wiki/Accipiter)
@@ -180,6 +180,11 @@ Have-seen Species Counter: 123
   - ### 灰喜鹊属 [Cyanopica](https://en.wikipedia.org/wiki/Cyanopica)
     - #### [灰喜鹊](http://niaolei.org.cn/bird/b630.htm) [Azure-winged Magpie](https://en.wikipedia.org/wiki/Azure-winged_magpie)
         - ###### First Sight: [2018-11-25](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181125.md)
+        
+- ## 卷尾科 [Dicruridae](http://en.wikipedia.org/wiki/Drongo) Drongo
+  - ### 卷尾属 Dicrurus
+    - #### 发冠卷尾 [Hair-crested Drongo](http://en.wikipedia.org/wiki/Hair-crested_drongo)
+        - ###### First Sight: [2020-05-16](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200516.md)
 
 - ## 鹟科 [Muscicapidae](https://en.wikipedia.org/wiki/Old_World_flycatcher) Old World Flycatcher
   - ### 鹟属 [Muscicapa](http://en.wikipedia.org/wiki/Muscicapa)
