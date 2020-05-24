@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 124
+Have-seen Species Counter: 128
 
 - ## 鹰科 [Accipitridae](http://en.wikipedia.org/wiki/Accipitridae)
   - ### 鹰属 [Accipiter](http://en.wikipedia.org/wiki/Accipiter)
@@ -57,6 +57,8 @@ Have-seen Species Counter: 124
   - ### 杜鹃属 [Cuculus](https://en.wikipedia.org/wiki/Cuculus)
     - #### 大杜鹃 [Common Cuckoo](http://en.wikipedia.org/wiki/Common_cuckoo)
         - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
+    - #### 四声杜鹃 [Indian Cuckoo](http://en.wikipedia.org/wiki/Indian_cuckoo)
+        - ###### First Sight: [2020-05-17](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200517.md)
   - ### 鸦鹃属 [Centropus](http://en.wikipedia.org/wiki/Coucal) Coucal
     - #### 小鸦鹃 [Lesser Coucal](https://en.wikipedia.org/wiki/Lesser_coucal)
         - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
@@ -96,6 +98,8 @@ Have-seen Species Counter: 124
         - ###### First Sight: [2020-04-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200405.md)
     - #### 青脚鹬 [Common Greenshank](http://en.wikipedia.org/wiki/Common_greenshank)
         - ###### First Sight: [2020-04-25](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200425.md)
+    - #### 灰尾漂鹬 [Grey-tailed Tattler](https://en.wikipedia.org/wiki/Grey-tailed_tattler)
+        - ###### First Sight: [2020-05-17](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200517.md)
   - ### 矶鹬属 [Actitis](https://en.wikipedia.org/wiki/Actitis)
     - #### [矶鹬](http://niaolei.org.cn/bird/b351.htm) [Common Sandpiper](https://en.wikipedia.org/wiki/Common_sandpiper)
         - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
@@ -133,6 +137,9 @@ Have-seen Species Counter: 124
   - ### 小鸊鷉属 [Tachybaptus](https://en.wikipedia.org/wiki/Tachybaptus)
     - #### [小鸊鷉](http://niaolei.org.cn/bird/b518.htm) [Little Grebe](https://en.wikipedia.org/wiki/Little_grebe)
         - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
+  - ### 鸊鷉属 [Podiceps](http://en.wikipedia.org/wiki/Podiceps)
+    - #### 凤头鸊鷉 [Great Crested Grebe](https://en.wikipedia.org/wiki/Great_crested_grebe)
+        - ###### First Sight: [2020-05-17](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200517.md)
 
 - ## 鹭科 [Ardeidae](https://en.wikipedia.org/wiki/Heron) Heron
   - ### 白鹭属 [Egretta](https://en.wikipedia.org/wiki/Egretta)
@@ -157,6 +164,11 @@ Have-seen Species Counter: 124
         - ###### First Sight: [2020-05-16](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200516.md)
     - #### 紫背苇鳽 [Von Schrenck's Bittern](http://en.wikipedia.org/wiki/Von_Schrenck's_bittern)
         - ###### First Sight: [2020-04-27](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200427.md)
+        
+- ## 鹮科 [Threskiornithidae](https://en.wikipedia.org/wiki/Threskiornithidae)
+  - ### 琵鹭属 [Platalea](http://en.wikipedia.org/wiki/Spoonbill) Spoonbill
+    - #### 黑脸琵鹭 [Black-faced Spoonbill](https://en.wikipedia.org/wiki/Black-faced_spoonbill)
+        - ###### First Sight: [2020-05-17](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200517.md)
 
 - ## 伯劳科 [Laniidae](https://en.wikipedia.org/wiki/Shrike) Shrike
   - ### 伯劳属 [Lanius](https://en.wikipedia.org/wiki/Lanius)
