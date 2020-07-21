@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 128
+Have-seen Species Counter: 136
 
 - ## 鹰科 [Accipitridae](http://en.wikipedia.org/wiki/Accipitridae)
   - ### 鹰属 [Accipiter](http://en.wikipedia.org/wiki/Accipiter)
@@ -52,6 +52,8 @@ Have-seen Species Counter: 128
   - ### 斑鸠属 [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia)
     - #### 山斑鸠 [Oriental Turtle Dove](https://en.wikipedia.org/wiki/Oriental_turtle_dove)
         - ###### First Sight: [2019-09-28](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190928.md)
+    - #### 火斑鸠 [Red Turtle Dove](http://en.wikipedia.org/wiki/Red_turtle_dove)
+        - ###### First Sight: [2020-06-06](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200606.md)
         
 - ## 杜鹃科 [Cuculidae](http://en.wikipedia.org/wiki/Cuckoo) Cuckoo
   - ### 杜鹃属 [Cuculus](https://en.wikipedia.org/wiki/Cuculus)
@@ -73,6 +75,12 @@ Have-seen Species Counter: 128
   - ### 苦恶鸟属 [Amaurornis](https://en.wikipedia.org/wiki/Amaurornis)
     - #### [白胸苦恶鸟](http://niaolei.org.cn/bird/b313.htm) [White-breasted Waterhen](https://en.wikipedia.org/wiki/White-breasted_waterhen)
         - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
+        
+- ## 水雉科 [Jacanidae](http://en.wikipedia.org/wiki/Jacanidae)
+  - ### 水雉属 Hydrophasianus
+    - #### 水雉 [Pheasant-tailed Jacana](http://en.wikipedia.org/wiki/Pheasant-tailed_jacana)
+        - ###### First Sight: [2020-06-06](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200606.md)
+    
 
 - ## 鸻科 [Charadriidae](http://en.wikipedia.org/wiki/Charadriidae)
   - ### 鸻属 [Charadrius](https://en.wikipedia.org/wiki/Charadrius)
@@ -84,6 +92,11 @@ Have-seen Species Counter: 128
         - ###### First Sight: [2020-04-18](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200418.md)
     - #### 蒙古沙鸻 [Lesser Sand Plover](http://en.wikipedia.org/wiki/Lesser_sand_plover)
         - ###### First Sight: [2020-05-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200505.md)
+
+- ## 燕鸻科 [Pratincole](https://en.wikipedia.org/wiki/Pratincole)
+  - ### 燕鸻属 [Glareola](https://en.wikipedia.org/wiki/Glareola)
+    - #### 普通燕鸻 [Oriental Pratincole](http://en.wikipedia.org/wiki/Oriental_pratincole)
+        - ###### First Sight: [2020-06-06](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200606.md)
 
 
 - ## 丘鹬科 [Scolopacidae](https://en.wikipedia.org/wiki/Sandpiper) Sandpiper
@@ -119,6 +132,9 @@ Have-seen Species Counter: 128
   - ### 杓鹬属 [Numenius](http://en.wikipedia.org/wiki/Curlew) Curlew
     - #### 中杓鹬 [Whimbrel](http://en.wikipedia.org/wiki/Eurasian_whimbrel)
         - ###### First Sight: [2020-04-25](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200425.md)
+  - ### 塍鹬属 [Limosa](https://en.wikipedia.org/wiki/Godwit) Godwid
+    - #### 黑尾塍鹬 [Black-tailed Godwit](http://en.wikipedia.org/wiki/Black-tailed_godwit)
+        - ###### First Sight: [2020-06-06](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200606.md)
 
 - ## 反嘴鹬科 [Recurvirostridae](https://en.wikipedia.org/wiki/Recurvirostridae)
   - ### 反嘴鹬属 [Recurvirostra](https://en.wikipedia.org/wiki/Avocet) Avocet
@@ -150,6 +166,8 @@ Have-seen Species Counter: 128
         - ###### First Sight: [2018-12-15](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181215.md)
     - #### 中白鹭 [Intermediate Egret](http://en.wikipedia.org/wiki/Intermediate_egret)
         - ###### First Sight: [2020-05-05](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200505.md)
+    - #### 大白鹭 [Great Egret](http://en.wikipedia.org/wiki/Great_egret)
+        - ###### First Sight: [2020-06-06](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200606.md)
   - ### 夜鹭属 [Nycticorax](https://en.wikipedia.org/wiki/Nycticorax)
     - #### [夜鹭](http://niaolei.org.cn/bird/b547.htm) [Black-crowned Night-Heron](https://en.wikipedia.org/wiki/Black-crowned_night_heron)
         - ###### First Sight: [2019-01-27](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190127.md)
@@ -164,6 +182,9 @@ Have-seen Species Counter: 128
         - ###### First Sight: [2020-05-16](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200516.md)
     - #### 紫背苇鳽 [Von Schrenck's Bittern](http://en.wikipedia.org/wiki/Von_Schrenck's_bittern)
         - ###### First Sight: [2020-04-27](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200427.md)
+  - ### 麻鳽属 [Botaurus](https://en.wikipedia.org/wiki/Botaurus)
+    - #### 大麻鳽 [Eurasian Bittern](http://en.wikipedia.org/wiki/Eurasian_bittern)
+        - ###### First Sight: [2020-06-06](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200606.md)
         
 - ## 鹮科 [Threskiornithidae](https://en.wikipedia.org/wiki/Threskiornithidae)
   - ### 琵鹭属 [Platalea](http://en.wikipedia.org/wiki/Spoonbill) Spoonbill
@@ -318,6 +339,9 @@ Have-seen Species Counter: 128
   - ### 拟鹟莺属 [Abroscopus](https://en.wikipedia.org/wiki/Abroscopus)
     - #### 棕脸鹟莺 [Rufous-faced Warbler](https://en.wikipedia.org/wiki/Rufous-faced_warbler)
         - ###### First Sight: [2020-04-01](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200401am.md)
+  - ### 暗色树莺属 [Horornis](http://en.wikipedia.org/wiki/Horornis)
+    - #### 远东树莺 [Manchurian Bush Warbler](http://en.wikipedia.org/wiki/Manchurian_bush_warbler)
+        - ###### First Sight: [2020-06-06](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200606.md)
 
 - ## 柳莺科 [Phylloscopidae](https://en.wikipedia.org/wiki/Phylloscopidae)
   - ### 柳莺属 [Phylloscopus](https://en.wikipedia.org/wiki/Leaf_warbler)
@@ -344,6 +368,9 @@ Have-seen Species Counter: 128
   - ### 山鹪莺属 [Prinia](https://en.wikipedia.org/wiki/Prinia)
     - #### 纯色山鹪莺 [Plain Prinia](https://en.wikipedia.org/wiki/Plain_Prinia)
         - ###### First Sight: [2019-10-19](https://github.com/simonace/My-Birding-Log/blob/master/2019/20191019.md)
+  - ### 扇尾莺属 [Cisticola](https://en.wikipedia.org/wiki/Cisticola)
+    - #### 棕扇尾莺 [Zitting Cisticola](http://en.wikipedia.org/wiki/Zitting_cisticola)
+        - ###### First Sight: [2020-06-06](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200606.md)
 
 - ## 雀科 [Passeridae](https://en.wikipedia.org/wiki/Sparrow) Sparrow
   - ### 雀属 [Passer](https://en.wikipedia.org/wiki/Passer)
