@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 136
+Have-seen Species Counter: 140
 
 - ## 鹰科 [Accipitridae](http://en.wikipedia.org/wiki/Accipitridae)
   - ### 鹰属 [Accipiter](http://en.wikipedia.org/wiki/Accipiter)
@@ -228,6 +228,8 @@ Have-seen Species Counter: 136
   - ### 红尾鸲属 [Phoenicurus](https://en.wikipedia.org/wiki/Phoenicurus)
     - #### [北红尾鸲](http://niaolei.org.cn/bird/b787.htm) [Daurian Redstart](https://en.wikipedia.org/wiki/Daurian_redstart)
         - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
+    - #### 红尾水鸲 [Plumbeous Water Redstart](http://en.wikipedia.org/wiki/Plumbeous_water_redstart)
+        - ###### First Sight: [2020-08-01](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200801.md)
   - ### 鹊鸲属 [Copsychus](https://en.wikipedia.org/wiki/Magpie-robin)
     - #### [鹊鸲](http://niaolei.org.cn/bird/b778.htm) [Oriental Magpie-Robin](https://en.wikipedia.org/wiki/Oriental_magpie-robin)
         - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
@@ -250,6 +252,12 @@ Have-seen Species Counter: 136
         - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
     - #### 鸲姬鹟 [Mugimaki Flycatcher](http://en.wikipedia.org/wiki/Mugimaki_flycatcher)
         - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
+  - ### 燕尾属 [Enicurus](https://en.wikipedia.org/wiki/Forktail) Forktail
+    - #### 小燕尾 [Little Forktail](http://en.wikipedia.org/wiki/Little_forktail)
+        - ###### First Sight: [2020-08-01](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200801.md)
+  - ### 啸鸫属 [Myophonus](https://en.wikipedia.org/wiki/Whistling_thrush) Whistling Thrush
+    - #### 紫啸鸫 [Blue Whistling Thrush](https://en.wikipedia.org/wiki/Blue_whistling_thrush)
+        - ###### First Sight: [2020-08-01](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200801.md)
         
 - ## 王鹟科 [Monarchidae](http://en.wikipedia.org/wiki/Monarch_flycatcher) Monarch Flycatcher
   - ### 寿带属 [Terpsiphone](http://en.wikipedia.org/wiki/Paradise_flycatcher) Paradise Flycatcher
@@ -321,6 +329,9 @@ Have-seen Species Counter: 136
   - ### 雀嘴鹎属 [Spizixos](http://en.wikipedia.org/wiki/Spizixos)
     - #### 领雀嘴鹎 [Collared Finchbill](http://en.wikipedia.org/wiki/Collared_finchbill)
         - ###### First Sight: [2020-05-16](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200516.md)
+  - ### 短脚鹎属 [Hypsipetes](http://en.wikipedia.org/wiki/Hypsipetes)
+    - #### 黑短脚鹎 [Black Bulbul](http://en.wikipedia.org/wiki/Black_bulbul)
+        - ###### First Sight: [2020-08-01](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200801.md)
 
 - ## 绣眼鸟科 [Zosteropidae](https://en.wikipedia.org/wiki/White-eye) White-eye
   - ### 绣眼鸟属 [Zosterops](https://en.wikipedia.org/wiki/Zosterops)
