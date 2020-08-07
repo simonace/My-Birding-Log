@@ -1,11 +1,14 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 142
+Have-seen Species Counter: 144
 
 - ## 鹰科 [Accipitridae](http://en.wikipedia.org/wiki/Accipitridae)
   - ### 鹰属 [Accipiter](http://en.wikipedia.org/wiki/Accipiter)
     - #### 凤头鹰 [Crested Goshawk](http://en.wikipedia.org/wiki/Crested_goshawk)
         - ###### First Sight: [2020-04-09](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200409.md)
+  - ### 林雕属 Ictinaetus
+    - #### 林雕 [Black Eagle](http://en.wikipedia.org/wiki/Black_eagle)
+        - ###### First Sight: [2020-08-02](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200802whole.md)
 
 - ## 隼科 [Falconidae](https://en.wikipedia.org/wiki/Falconidae)
   - ### 隼属 [Falco](https://en.wikipedia.org/wiki/Falcon)
@@ -343,6 +346,9 @@ Have-seen Species Counter: 142
   - ### 绣眼鸟属 [Zosterops](https://en.wikipedia.org/wiki/Zosterops)
     - #### [暗绿绣眼鸟](http://niaolei.org.cn/bird/b925.htm) [Japanese White-eye](https://en.wikipedia.org/wiki/Japanese_white-eye)
         - ###### First Sight: [2018-12-08](https://github.com/simonace/My-Birding-Log/blob/master/2018/20181208.md)
+  - ### 凤鹛属 [Yuhina](http://en.wikipedia.org/wiki/Yuhina)
+    - #### 栗颈凤鹛 [Chestnut-collared Yuhina](http://en.wikipedia.org/wiki/Indochinese_yuhina)
+        - ###### First Sight: [2020-08-02](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200802whole.md)
 
 - ## 莺鹛科 [Sylviidae](https://en.wikipedia.org/wiki/Sylviidae)
   - ### 鸦雀属 [Paradoxornis](http://en.wikipedia.org/wiki/Parrotbill) Parrotbill
