@@ -1,6 +1,6 @@
 # Have-seen List  已观测的物种
 
-Have-seen Species Counter: 144
+Have-seen Species Counter: 148
 
 - ## 鹰科 [Accipitridae](http://en.wikipedia.org/wiki/Accipitridae)
   - ### 鹰属 [Accipiter](http://en.wikipedia.org/wiki/Accipiter)
@@ -64,6 +64,8 @@ Have-seen Species Counter: 144
         - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
     - #### 四声杜鹃 [Indian Cuckoo](http://en.wikipedia.org/wiki/Indian_cuckoo)
         - ###### First Sight: [2020-05-17](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200517.md)
+    - #### 中杜鹃 [Himalayan Cuckoo](http://en.wikipedia.org/wiki/Himalayan_cuckoo)
+        - ###### First Sight: [2020-08-30](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200830.md)
   - ### 鸦鹃属 [Centropus](http://en.wikipedia.org/wiki/Coucal) Coucal
     - #### 小鸦鹃 [Lesser Coucal](https://en.wikipedia.org/wiki/Lesser_coucal)
         - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
@@ -138,6 +140,9 @@ Have-seen Species Counter: 144
   - ### 塍鹬属 [Limosa](https://en.wikipedia.org/wiki/Godwit) Godwid
     - #### 黑尾塍鹬 [Black-tailed Godwit](http://en.wikipedia.org/wiki/Black-tailed_godwit)
         - ###### First Sight: [2020-06-06](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200606.md)
+  - ### 半蹼鹬属 [Limnodromus](http://en.wikipedia.org/wiki/Dowitcher)
+    - #### 半蹼鹬 [Asian Dowitcher](http://en.wikipedia.org/wiki/Asian_dowitcher)
+        - ###### First Sight: [2020-08-30](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200830.md)
 
 - ## 反嘴鹬科 [Recurvirostridae](https://en.wikipedia.org/wiki/Recurvirostridae)
   - ### 反嘴鹬属 [Recurvirostra](https://en.wikipedia.org/wiki/Avocet) Avocet
@@ -151,6 +156,9 @@ Have-seen Species Counter: 144
   - ### 鸥属 [Larus](https://en.wikipedia.org/wiki/Larus)
     - #### [西伯利亚银鸥/蒙古银鸥](http://niaolei.org.cn/bird/b420.htm) [Vega Gull/Mongolian Gull](https://en.wikipedia.org/wiki/Vega_gull)
         - ###### First Sight: [2019-01-06](https://github.com/simonace/My-Birding-Log/blob/master/2019/20190106.md)
+  - ### 噪鸥属 Gelochelidon
+    - #### 鸥嘴噪鸥 [Gull-billed Tern](http://en.wikipedia.org/wiki/Gull-billed_tern)
+        - ###### First Sight: [2020-08-30](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200830.md)
 
 - ## 鸊鷉科 [Podicipedidae](https://en.wikipedia.org/wiki/Grebe) Grebe
   - ### 小鸊鷉属 [Tachybaptus](https://en.wikipedia.org/wiki/Tachybaptus)
@@ -295,6 +303,11 @@ Have-seen Species Counter: 144
   - ### 少斑地鸫属 [Geokichla](http://en.wikipedia.org/wiki/Geokichla)
     - #### 白眉地鸫 [Siberian Thrush](http://en.wikipedia.org/wiki/Siberian_thrush)
         - ###### First Sight: [2020-05-10](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200510.md)
+        
+- ## 八色鸫科 [Pittidae](http://en.wikipedia.org/wiki/Pitta)
+  - ### 八色鸫属 [Pitta](http://en.wikipedia.org/wiki/Pitta_(genus))
+    - #### 仙八色鸫 [Fairy Pitta](http://en.wikipedia.org/wiki/Fairy_pitta)
+        - ###### First Sight: [2020-08-30](https://github.com/simonace/My-Birding-Log/blob/master/2020/20200830.md)
 
 - ## 椋鸟科 [Sturnidae](https://en.wikipedia.org/wiki/Starling) Starling
   - ### 八哥属 [Acridotheres](https://en.wikipedia.org/wiki/Acridotheres)
